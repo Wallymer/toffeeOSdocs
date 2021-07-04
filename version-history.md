@@ -5,7 +5,7 @@ For beta and canary rings.
 ### unicorn 1.4 (latest release to this ring: July 2, 2021)
 Before installing this release, please check the [system requirements](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
 - pushing security updates to main for April-July 2021.
-  - backported to unicorn 1.3.4
+  - backported to unicorn 1.3.4, since final update did not release on April 2, 2021 as originally intended.
 - fixes for AMD processors
 - updated Toffee Server to sv1.4
   - Active Directory integration is now supported.
