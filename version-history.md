@@ -11,6 +11,10 @@ Before installing this release, please check the [system requirements](https://g
   - Active Directory integration is now supported.
 
 ## Beta Ring
+### unicorn 1.3.7 (latest release: July 7, 2021)
+- Prepping for April-July 2021 security updates
+- Beginning to push visual updates to Settings to main.
+
 ### unicorn 1.3.6 (latest release: March 30, 2021)
 - Dropped support for most processors released in 2009 and prior (.05% of our user base). These devices are now unsupported though can still run toffeeOS 1.3.5 and earlier, and they won't be covered with security updates after April 2nd, 2021.
   - To clarify, Intel processors launched in 2010 and later is still fully supported. AMD processors, however, are currently not compatible.
