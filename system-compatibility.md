@@ -1,5 +1,5 @@
 ## unicorn (toffeeOS) system compatibility
-unicorn 1.3.6, the most recent release, is officially compatible with the following system configurations:
+unicorn 1.3.7, the most recent release, is officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 512 MB (32-bit), 1 GB (64-bit)
@@ -13,7 +13,7 @@ unicorn 1.3.6, the most recent release, is officially compatible with the follow
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
 
 ### Storage
-- Minimum needed for install: 14 GB
+- Minimum needed for install: 16GB (32-bit); 32GB (64-bit)
 - Recommended storage: 128 GB HDD/SSD (or comparable Fusion/Hybrid drive)
 
 ### Not currently supported
