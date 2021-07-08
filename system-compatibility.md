@@ -1,5 +1,5 @@
 ## unicorn (toffeeOS) system compatibility
-unicorn 1.3.7 (Beta Ring), unicorn 1.3.8 and unicorn 1.4 (Canary Ring), the most recent releases, are officially compatible with the following system configurations:
+unicorn 1.3.8 (Beta Ring) and unicorn 1.4 (Canary Ring), the most recent releases, are officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 512 MB (32-bit), 1 GB (64-bit)
