@@ -2,18 +2,19 @@
 For beta (more stable, released whenever) and canary (dev branch, 3 times a week builds) 
 
 ## Canary Ring
-There are currently two ongoing tests in the Canary Ring.
-
-### unicorn 1.4 (latest release: July 2, 2021)
+### unicorn 1.4 (latest release: July 8, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+- we're internally processing the final changelog for 1.4 that will be shown in the update window prompt for those on Beta channel
+  - of the internal release steps, we are now on step 3 of 6 (weeks). aiming for a release target of late July, early August
 - pushing security updates to main for April-July 2021.
   - backported to unicorn 1.3.4, since final update did not release on April 2, 2021 as originally intended.
 - fixes for AMD processors
 - updated Toffee Server to sv1.4
   - Active Directory integration is now supported.
 
-### unicorn 1.3.8 (latest release: July 7, 2021)
-Users may select to participate in 1.3.8's soak test or choose to stay on the more stable 1.3.7 build for testing purposes.
+## Beta Ring
+### unicorn 1.3.8 (latest release: July 8, 2021)
+The 1.3.8 soak test is over, users must update to the new Beta Ring build by July 9, 2021, to continue receiving software support.
 - Security updates pushed.
 - Visual updates to Settings
   - Consolidated sidebar into new categories (documentation to be updated)
@@ -22,8 +23,8 @@ Users may select to participate in 1.3.8's soak test or choose to stay on the mo
   - Confidentiality notice is now available in Settings > About my system > Testers > Confidentiality
 - Compatibility patch implemented for 2010 Intel Core 2 Duo processors.
 
-## Beta Ring
-### unicorn 1.3.7 (current test; latest release: July 7, 2021)
+### unicorn 1.3.7 (test ending: July 9, 2021)
+Update to unicorn 1.3.8 by July 9, 2021, to continue receiving software support.
 - Prepping for April-July 2021 security updates
 - Beginning to push visual updates to Settings to main
 - Updated Toffee Server to sv1.3.5
