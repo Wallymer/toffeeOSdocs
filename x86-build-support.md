@@ -1,7 +1,9 @@
 ## x86 build support
 For the few years we've been building unicorn, we've always included a 32-bit (x86) of the operating system for compatibility purposes. While we are certainly proud of this, we realized it significantly impacts our development time and resiliency to resolve bugs on two incredibly different codebases.
 
-x86-only systems are becoming more and more rare as time goes on. For this reason, we've made a difficult decision. The x86 build will be deprecated effective with unicorn 1.5. We've included our full roadmap to sunsetting and ultimately retiring these builds below.
+x86-only systems are becoming more and more rare as time goes on. For this reason, we've made a difficult decision. With unicorn 1.5, we have deprecated support for the x86 builds. 
+
+We've included our full roadmap to sunsetting and ultimately retiring these builds below.
 
 ## Version Deprecation Roadmap
 (**could be subject to change at any time!**)
