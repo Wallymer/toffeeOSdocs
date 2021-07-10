@@ -1,6 +1,9 @@
 ## Version History
 For beta (more stable, released whenever) and canary (dev branch, 3 times a week builds) 
 
+## Dev Ring
+No build present in Dev Ring yet.
+
 ## Canary Ring
 ### unicorn 1.4 Canary 2 (latest release: July 9, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
