@@ -1,8 +1,14 @@
 ## Version History
 For beta (more stable, released whenever) and canary (dev branch, 3 times a week builds) 
 
+## Dev Ring
+No build present in Dev Ring yet.
+
 ## Canary Ring
-### unicorn 1.4 Canary 2 (latest release: July 9, 2021)
+Replaced by Dev Ring as of unicorn 1.5. 
+
+## Beta Ring
+### unicorn 1.4 Beta 1 (latest release: July 11, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
 - Kernel patch
 - IoT devices will now automatically recommend using Wi-Fi networks with "IoT" in their name (no matter the casing)
@@ -12,18 +18,13 @@ Before installing this release, please check the [system compatibility Doc](http
 - Fixed an issue relating to Settings (ported from 1.3.8-b02)
 - Graphics cards with more than 2GB of VRAM will no longer have graphic errors when entering Settings (sorry about that) (ported from 1.3.8 Beta 2)
 - AMD processors now compatible: A8 APUs released in 2014 and later, and Ryzen 1000 and later.
-
-### unicorn 1.4 Canary 1 (test ended: July 8, 2021)
-- we're internally processing the final changelog for 1.4 that will be shown in the update window prompt for those on Beta channel
-  - of the internal release steps, we are now on step 3 of 6 (weeks). aiming for a release target of late July, early August
 - pushing security updates to main for April-July 2021.
   - backported to unicorn 1.3.4, since final update did not release on April 2, 2021 as originally intended.
 - fixes for AMD processors
 - updated unicorn Server to sv1.4
   - Active Directory integration is now supported.
 
-## Beta Ring
-### unicorn 1.3.8 Beta 2 (latest release: July 9, 2021)
+### unicorn 1.3.8 Beta 2 (test ended: July 11, 2021)
 - Bug fixes
   - Settings now functions normally when entering the Network tab.
 - Graphics cards with more than 2GB of VRAM will no longer have graphic errors when entering Settings (sorry about that)
