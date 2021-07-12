@@ -7,7 +7,9 @@ The requirements below are subject to change at any time.
 unicorn 1.5 Dev 1 is officially compatible with the following system configurations:
 
 ### RAM
-- Minimum: 512 MB (32-bit), 2GB (64-bit)
+- Minimum: 512MB (32-bit), 2GB (64-bit)
+  - We will be raising the minimum RAM requirements for 32-bit builds to 728MB once 1.5 Dev 2 releases. 
+  - 64-bit builds are unaffected by the change.
 - Maximum (32-bit only): 4GB
 - Recommended: 4GB (both)
 
