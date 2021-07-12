@@ -23,6 +23,29 @@ unicorn 1.5 Dev 1 is officially compatible with the following system configurati
 - Recommended storage: 256 GB HDD/SSD  
 Fusion/Hybrid drives are no longer supported.
 
+## unicorn 1.4 Canary Builds
+unicorn 1.4 Canary 1 is officially compatible with the following system configurations:
+
+### RAM
+- Minimum: 512 MB (32-bit), 2GB (64-bit)
+- Maximum (32-bit only): 4GB
+- Recommended: 4GB (both)
+
+### Components
+- CPU: Intel CPU launched in 2010 or later; AMD A8 APUs released in 2014 and later, and Ryzen 1000 and later.
+  - CPU must also support UEFI
+  - For reference purposes only - we do not support the 2009 Intel Core 2 Duo or earlier due to processor issues.
+- GPU (64-bit only): NVIDIA GPU launched in 2014 or later.
+  - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
+
+### Storage
+- Minimum needed for install: 20GB (32-bit); 40GB (64-bit)
+- Recommended storage: 256 GB HDD/SSD (or comparable Fusion/Hybrid drive)
+
+### Not currently supported
+- GPU: All NVIDIA RTX cards (2080 or newer); All AMD cards
+- MBO: All ASUS Motherboards manufactured prior to 2018
+
 ## unicorn 1.4 Beta Builds
 unicorn 1.4 Beta 1 is officially compatible with the following system configurations:
 
