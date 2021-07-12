@@ -8,9 +8,14 @@ Before installing this release, please check the [system compatibility Doc](http
 - Experimental support update for PS/2 port devices. 
 
 ## Canary Ring
-### unicorn 1.4.1 Canary 1 (latest release: July 11, 2021)
+### unicorn 1.4.1 Canary 2 (latest release: July 12, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
 
+- Renamed Privacy settings tile to Privacy Hub
+- Bug fixes for Privacy Hub
+- We now require Wi-Fi g/n/ac/ax or later cards, as a rollback to a change we made in 1.4 Beta 1 (and its Canary builds).
+
+### unicorn 1.4.1 Canary 1 (latest release: July 11, 2021)
 This update is focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
 - New privacy features for all users include...
   - Mic Privacy: Microphone disabled at certain times or, better yet, all the time. Searches on web search engines can also be routed through an onboard VPN to hide your IP address and search history.
@@ -20,8 +25,11 @@ This update is focused on adding Privacy-centered features we were unable to add
 - IoT devices will receive further updates to Privacy in Canary 2. 
 
 ## Beta Ring
-### unicorn 1.4 Beta 1 (latest release: July 11, 2021)
+### unicorn 1.4 Beta 2 (latest release: July 12, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+- Bug fixes.
+
+### unicorn 1.4 Beta 1 (test ended: July 11, 2021)
 - Kernel patch
 - IoT devices will now automatically recommend using Wi-Fi networks with "IoT" in their name (no matter the casing)
 - Wi-Fi 4 or later (n/ac/ax) is required at minimum for cards to be compatible with unicorn 1.4.
