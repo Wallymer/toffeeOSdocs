@@ -13,14 +13,15 @@ unicorn 1.5 Dev 1 is officially compatible with the following system configurati
 
 ### Components
 - CPU: Intel CPU launched in 2010 or later; AMD A8 APUs released in 2014 and later, and Ryzen 1000 and later.
-  - CPU must also support UEFI
+  - CPU must also support UEFI mode.
   - For reference purposes only - we do not support the 2009 Intel Core 2 Duo or earlier due to processor issues.
 - GPU (64-bit only): NVIDIA GPU launched in 2014 or later.
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
 
 ### Storage
 - Minimum needed for install: 26GB (32-bit); 46GB (64-bit)
-- Recommended storage: 256 GB HDD/SSD (or comparable Fusion/Hybrid drive)
+- Recommended storage: 256 GB HDD/SSD  
+Fusion/Hybrid drives are no longer supported.
 
 ## unicorn 1.4 Beta Builds
 unicorn 1.4 Beta 1 is officially compatible with the following system configurations:
