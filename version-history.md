@@ -2,10 +2,22 @@
 For beta (more stable, released whenever) and canary (dev branch, 3 times a week builds) 
 
 ## Dev Ring
-No build present in Dev Ring yet.
+### unicorn 1.5 Dev 1 (latest release: July 11, 2021)
+Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+- undisclosed feature update (private developer release)
+- Experimental support update for PS/2 port devices. 
 
 ## Canary Ring
-Replaced by Dev Ring as of unicorn 1.5. 
+### unicorn 1.4.1 Canary 1 (latest release: July 11, 2021)
+Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+
+This update is focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
+- New privacy features for all users include...
+  - Mic Privacy: Microphone disabled at certain times or, better yet, all the time. Searches on web search engines can also be routed through an onboard VPN to hide your IP address and search history.
+  - Location Privacy: Choice between approximate (at either a state or country level) and precise locations.
+  - Camera Privacy: Software can discern what port a camera is plugged into and shut it off automatically during certain times (or all the time).
+  - Transparency: There is a new Transparency menu in Settings which details Mic, Location, and Camera usage for up to 60 days after it is requested by apps on your computer.
+- IoT devices will receive further updates to Privacy in Canary 2. 
 
 ## Beta Ring
 ### unicorn 1.4 Beta 1 (latest release: July 11, 2021)
