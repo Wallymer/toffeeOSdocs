@@ -2,8 +2,14 @@
 For beta (more stable, current version), canary (semi-stable, tests of point releases for current version), dev (upcoming version, definitely not stable) rings.
 
 ## Dev Ring
-### unicorn 1.5 Dev 2 (latest release: July 16, 2021)
+### unicorn 1.5 Dev 3 (latest release: July 18, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+- We've raised the minimum RAM requirements to 728MB for the 32-bit builds. 4GB remains as the absolute maximum RAM supported on 32-bit systems.
+  - this is in preparation for the [32-bit build deprecation](https://github.com/onetwentyfour/unicorndocs/blob/main/x86-build-support.md) happening some time this year.
+- fixed an issue with PS/2 devices not working after a power failure.
+- fixed a user interface bug that affected redesigned apps in this update, specifically in Planner.
+
+### unicorn 1.5 Dev 2 (test ended: July 17, 2021)
 - PS/2 port devices are now supported
 - visual changes to user interface
 
@@ -12,8 +18,12 @@ Before installing this release, please check the [system compatibility Doc](http
 - Experimental support update for PS/2 port devices
 
 ## Canary Ring
-### unicorn 1.4.1 Canary 3 (latest release: July 16, 2021)
+### unicorn 1.4.1 Canary 4 (latest release: July 18, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+- fixed issue with battery percentage not displaying correctly on certain resolutions
+- the battery icon will now be prioritized in the Status Area when the device type "Laptop" is selected and a battery is detected.
+
+### unicorn 1.4.1 Canary 3 (test ended: July 17, 2021)
 - fixed issue with Privacy Hub not correctly displaying the history and usage of location requests in Transparency
 - Wi-Fi "g"-standard cards will now work as intended
 
