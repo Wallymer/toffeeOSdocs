@@ -45,7 +45,7 @@ unicorn 1.5 Dev 1 and 2 are officially compatible with the following system conf
 Fusion/Hybrid drives are no longer supported.
 
 ## unicorn 1.4 Canary Builds
-unicorn 1.4 Canary 1 is officially compatible with the following system configurations:
+unicorn 1.4 Canary 1 and later are officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 512 MB (32-bit), 2GB (64-bit)
