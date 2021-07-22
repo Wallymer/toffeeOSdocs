@@ -5,6 +5,7 @@ For beta (more stable, current version), canary (semi-stable, tests of point rel
 ### unicorn 1.5 Dev 4 (latest release: July 22, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
 - fixed an issue with memory leaks when opening the browser
+- dropped support for 2010 Intel processors, including the 2010 Intel Core 2 Duo
 - (x86 version only) fixed an issue with toffeesync-x86 package refusing to update
 
 ### unicorn 1.5 Dev 3 (test ended: July 21, 2021)

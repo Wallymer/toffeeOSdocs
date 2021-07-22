@@ -4,7 +4,8 @@ Due to the upcoming [x86 build deprecation](https://github.com/onetwentyfour/uni
 The requirements below are subject to change at any time.
 
 ## unicorn 1.5 Dev Builds
-unicorn 1.5 Dev 4 and later are officially compatiable with the following system configurations:
+### unicorn 1.5 Dev 4 and later 
+Officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 728MB (32-bit), 2GB (64-bit)
@@ -20,10 +21,11 @@ unicorn 1.5 Dev 4 and later are officially compatiable with the following system
 
 ### Storage
 - Minimum needed for install: 26GB (32-bit); 46GB (64-bit)
-- Recommended storage: 256 GB HDD/SSD
-Fusion/Hybrid drives are no longer supported.
+- Recommended storage: 256 GB HDD/SSD  
+Fusion/Hybrid drives are no longer supported.  
 
-unicorn 1.5 Dev 3 and earlier are officially compatiable with the following system configurations:
+### unicorn 1.5 Dev 3
+Officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 728MB (32-bit), 2GB (64-bit)
@@ -42,7 +44,8 @@ unicorn 1.5 Dev 3 and earlier are officially compatiable with the following syst
 - Recommended storage: 256 GB HDD/SSD  
 Fusion/Hybrid drives are no longer supported.
 
-unicorn 1.5 Dev 1 and 2 are officially compatible with the following system configurations:
+### unicorn 1.5 Dev 1 and 2
+Officially compatible with the following system configurations:
 
 ### RAM
 - Minimum: 512MB (32-bit), 2GB (64-bit)
