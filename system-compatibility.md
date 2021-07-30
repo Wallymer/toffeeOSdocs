@@ -14,8 +14,9 @@ Officially compatible with the following system configurations:
 
 ### Components
 - CPU: Intel CPU launched in 2011 or later; AMD A8 APUs released in 2014 and later, and Ryzen 1000 and later.
-  - CPU must also support UEFI mode.
-  - For reference purposes only - we do not support the 2010 Intel Core 2 Duo or earlier due to processor issues.
+  - CPU and Motherboard (MBO) pairing must also support UEFI. CPU and MBO pairings without UEFI cannot boot the OS.
+  - We do not support the 2010 Intel Core 2 Duo or earlier due to technical limitations.
+  - We do not support AMD CPUs prior to Ryzen 1000 or AMD APUs prior to 2014 A8 due to technical limitations.
 - GPU (64-bit only): NVIDIA GPU launched in 2014 or later.
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
 
