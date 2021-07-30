@@ -2,7 +2,10 @@
 For beta (more stable, current version), canary (semi-stable, tests of point releases for current version), dev (upcoming version, definitely not stable) rings.
 
 ## Dev Ring
-### unicorn 1.5 Dev 4 (latest release: July 22, 2021)
+### unicorn 1.5 Dev 5 (latest release: July 29, 2021)
+- Ported 1.4.1 Privacy Hub and Device Type features to 1.5 Dev Channel.
+
+### unicorn 1.5 Dev 4 (test ended: July 28, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
 - fixed an issue with memory leaks when opening the browser
 - dropped support for 2010 Intel processors, including the 2010 Intel Core 2 Duo
@@ -23,8 +26,26 @@ Before installing this release, please check the [system compatibility Doc](http
 - Experimental support update for PS/2 port devices
 
 ## Canary Ring
-### unicorn 1.4.1 Canary 5 (latest release: July 22, 2021)
+### unicorn 1.4.1 Canary 6 (Beta Release Candidate 1) (latest release: July 29, 2021)
 Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+
+**[Draft Changelog]** This update is primarily focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
+- New privacy features for all users include...
+  - Mic Privacy: Microphone disabled at certain times or, better yet, all the time. Searches on web search engines can also be routed through an onboard VPN to hide your IP address and search history.
+  - Location Privacy: Choice between approximate (at either a state or country level) and precise locations.
+  - Camera Privacy: Software can discern what port a camera is plugged into and shut it off automatically during certain times (or all the time).
+  - Transparency: There is a new Transparency menu in Settings which details Mic, Location, and Camera usage for up to 60 days after it is requested by apps on your computer.
+- Renamed Privacy settings tile to Privacy Hub
+- fixed issue with Privacy Hub not correctly displaying the history and usage of location requests in Transparency
+- Other misc fixes for Privacy Hub
+- We now require Wi-Fi g/n/ac/ax or later cards, as a rollback to a change we made in 1.4 Beta 1 (and its Canary builds).
+- fixed issue with battery percentage not displaying correctly on certain resolutions
+- the battery icon will now be prioritized in the Status Area when the device type "Laptop" is selected and a battery is detected.
+- IoT devices can be auto disconnected from the internet during set routines.
+- You can now set your Device Type at any time in Settings.
+- (x86 version only) fixed an issue with toffeesync-x86 package refusing to update
+
+### unicorn 1.4.1 Canary 5 (test ended: July 28, 2021)
 - (x86 version only) fixed an issue with toffeesync-x86 package refusing to update
 
 ### unicorn 1.4.1 Canary 4 (test ended: July 21, 2021)
@@ -50,7 +71,10 @@ This update is focused on adding Privacy-centered features we were unable to add
 - IoT devices will receive further updates to Privacy in Canary 4 (pushed back). 
 
 ## Beta Ring
-### unicorn 1.4 Beta 3 (latest release: July 16, 2021)
+### unicorn 1.4 Beta 4 (latest release: July 29, 2021)
+- Backported Privacy Hub IoT device updates
+
+### unicorn 1.4 Beta 3 (test ended: July 28, 2021)
 - Kernel patch
 - Fixed an issue with IoT devices not properly detecting an available internet connection.
 
