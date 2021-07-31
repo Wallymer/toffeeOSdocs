@@ -1,4 +1,4 @@
-| Channel | OS Version | Build Identifier | Date Released | Support End Date | LTS? | 32/64-bit? |
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Dev     | 1.5        | 15D6731          | July 31, 2021 | To be determined | No   | Both       |
 | Canary  | 1.4.1      | 14C7BRC2         | July 31, 2021 | To be determined | No   | Both       |
