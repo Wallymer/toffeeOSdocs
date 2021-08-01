@@ -2,8 +2,15 @@
 For beta (more stable, current version), canary (semi-stable, tests of point releases for current version), dev (upcoming version, definitely not stable) rings.
 
 ## Dev Ring
-### unicorn 1.5 Dev 6 [Build 15D6731] (latest release: July 31, 2021)
-Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+### unicorn 1.5 Dev 7 [Build 15D6801] (latest release: August 1, 2021)
+Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
+
+- Bug fixes
+- Native Markdown support in the "Project Scratchpad" app.
+- Performance improvements for 2013/2014 computers (apologies for that!)
+- ASUS Motherboard fix
+
+### unicorn 1.5 Dev 6 [Build 15D6731] (test ended: August 1, 2021)
 - Merged toffeesync mobile device syncing between unicorn and narwhal to the dev branch, meaning this is now accessible to all Dev testers.
   - This feature is not available on x86 builds.
 
@@ -30,9 +37,13 @@ Before installing this release, please check the [system compatibility Doc](http
 - Experimental support update for PS/2 port devices
 
 ## Canary Ring
-### unicorn 1.4.1 Canary 7 (Beta Release Candidate 2) [Build 14C7BRC2] (latest release: July 29, 2021)
-Before installing this release, please check the [system compatibility Doc](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md).
+### unicorn 1.4.2 Canary 1 [Build 14C1801] (latest release: August 1, 2021)
+Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
+- Performance improvements for 2015/2016 processors.
+- ASUS Motherboard fix (backported from 1.5 Dev 7)
+
+### unicorn 1.4.1 Canary 7 (Beta Release Candidate 2) [Build 14C7BRC2] (test ended and moved to Beta: August 1, 2021)
 This release fixes some bugs that were reported to us by testers. Build 14C7BRC2 is now available for Canary branch
 
 **[Draft Changelog]** This update is primarily focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
@@ -94,6 +105,25 @@ This update is focused on adding Privacy-centered features we were unable to add
 - IoT devices will receive further updates to Privacy in Canary 4 (pushed back). 
 
 ## Beta Ring
+### unicorn 1.4.1 Beta 1 [Build 14B1801] (latest release: August 1, 2021)
+Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
+
+This update is primarily focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
+- New privacy features for all users include...
+  - Mic Privacy: Microphone disabled at certain times or, better yet, all the time. Searches on web search engines can also be routed through an onboard VPN to hide your IP address and search history.
+  - Location Privacy: Choice between approximate (at either a state or country level) and precise locations.
+  - Camera Privacy: Software can discern what port a camera is plugged into and shut it off automatically during certain times (or all the time).
+  - Transparency: There is a new Transparency menu in Settings which details Mic, Location, and Camera usage for up to 60 days after it is requested by apps on your computer.
+- Renamed Privacy settings tile to Privacy Hub
+- fixed issue with Privacy Hub not correctly displaying the history and usage of location requests in Transparency
+- Other misc fixes for Privacy Hub
+- We now require Wi-Fi g/n/ac/ax or later cards, as a rollback to a change we made in 1.4 Beta 1 (and its Canary builds).
+- fixed issue with battery percentage not displaying correctly on certain resolutions
+- the battery icon will now be prioritized in the Status Area when the device type "Laptop" is selected and a battery is detected.
+- IoT devices can be auto disconnected from the internet during set routines.
+- You can now set your Device Type at any time in Settings.
+- (x86 version only) fixed an issue with toffeesync-x86 package refusing to update
+
 ### unicorn 1.4 Beta 4 [Build 14B4729] (latest release: July 29, 2021)
 - Backported Privacy Hub IoT device updates
 
