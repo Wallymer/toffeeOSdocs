@@ -1,8 +1,11 @@
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
 |---------|------------|------------------|---------------|------------------|------|------------|
-| Dev     | 1.5        | 15D7801          | August 1, 2021 | To be determined | No   | Both       |
-| Canary  | 1.4.2      | 14C1801          | August 1, 2021 | To be determined | No   | Both       |
-| Beta    | 1.4.1      | 14B1801          | August 1, 2021 | To be determined | No   | Both       |
+| Dev     | 1.5        | 15D8804          | August 4, 2021 | To be determined | No   | Both       |
+| Canary  | 1.4.2      | 14C2804          | August 4, 2021 | To be determined | No   | Both       |
+| Beta    | 1.4.1      | 14B2804          | August 4, 2021 | To be determined | No   | Both       |
+| Dev     | 1.5        | 15D7801          | August 1, 2021 | August 5, 2021 | No   | Both       |
+| Canary  | 1.4.2      | 14C1801          | August 1, 2021 | August 5, 2021 | No   | Both       |
+| Beta    | 1.4.1      | 14B1801          | August 1, 2021 | August 5, 2021 | No   | Both       |
 | Dev     | 1.5        | 15D6731          | July 31, 2021 | August 2, 2021   | No   | Both       |
 | Canary  | 1.4.1      | 14C7BRC2         | July 31, 2021 | August 2, 2021   | No   | Both       |
 | Beta    | 1.4        | 14B4729          | July 29, 2021 | August 2, 2021   | No   | Both       |
