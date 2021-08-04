@@ -2,9 +2,14 @@
 For beta (more stable, current version), canary (semi-stable, tests of point releases for current version), dev (upcoming version, definitely not stable) rings.
 
 ## Dev Ring
-### unicorn 1.5 Dev 7 [Build 15D6801] (latest release: August 1, 2021)
+### unicorn 1.5 Dev 8 [Build 15D8804] (latest release: August 4, 2021)
 Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
+- Updated Project Scratchpad icons
+- Made changes to how currency is handled in Calculator
+- Added tip calculation to Calculator for feature parity with narwhal.
+
+### unicorn 1.5 Dev 7 [Build 15D7801] (test ended: August 4, 2021)
 - Bug fixes
 - Native Markdown support in the "Project Scratchpad" app.
 - Performance improvements for 2013/2014 computers (apologies for that!)
@@ -37,9 +42,12 @@ Before installing this release, please check the [system compatibility](https://
 - Experimental support update for PS/2 port devices
 
 ## Canary Ring
-### unicorn 1.4.2 Canary 1 [Build 14C1801] (latest release: August 1, 2021)
+### unicorn 1.4.2 Canary 2 [Build 14C2801] (latest release: August 4, 2021)
 Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
+- updated Settings app to fix crashing bug when opening Content pane.
+
+### unicorn 1.4.2 Canary 1 [Build 14C1801] (test ended: August 4, 2021)
 - Performance improvements for 2015/2016 processors.
 - ASUS Motherboard fix (backported from 1.5 Dev 7)
 
@@ -105,9 +113,12 @@ This update is focused on adding Privacy-centered features we were unable to add
 - IoT devices will receive further updates to Privacy in Canary 4 (pushed back). 
 
 ## Beta Ring
-### unicorn 1.4.1 Beta 1 [Build 14B1801] (latest release: August 1, 2021)
+### unicorn 1.4.1 Beta 2 [Build 14B2804] (latest release: August 4, 2021)
 Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
+- updated Settings app to fix crashing bug when opening Content pane. (backported from 1.4.2)
+
+### unicorn 1.4.1 Beta 1 [Build 14B1801] (test ended: August 4, 2021)
 This update is primarily focused on adding Privacy-centered features we were unable to add in unicorn's 1.4 Beta release.  
 - New privacy features for all users include...
   - Mic Privacy: Microphone disabled at certain times or, better yet, all the time. Searches on web search engines can also be routed through an onboard VPN to hide your IP address and search history.
