@@ -1,9 +1,9 @@
 ## Changes coming to system compatibility in unicorn 1.6
-We will be updating the 64-bit version's system requirements in unicorn 1.6. They will be, as follows:
+We will be updating the **64-bit** version's system requirements in unicorn 1.6. They will be, as follows:
 
 ### RAM
-- Minimum: 3GB
-- Recommended: 6GB
+- Minimum: 4GB
+- Recommended: 8GB
 
 ### Components
 - CPU: Intel CPU launched in 2013 or later; AMD A8 APUs released in 2014 and later, and Ryzen 1000 and later.
@@ -14,6 +14,6 @@ We will be updating the 64-bit version's system requirements in unicorn 1.6. The
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
 
 ### Storage
-- Minimum needed for install: 60GB
-- Recommended storage: 300+ GB HDD/SSD  
+- Minimum storage space needed for install: 72 GB
+- Recommended storage space (after install): 320+ GB HDD/SSD  
 Fusion/Hybrid drives are not supported.  
