@@ -42,6 +42,13 @@ Before installing this release, please check the [system compatibility](https://
 - Experimental support update for PS/2 port devices
 
 ## Canary Ring
+### unicorn 1.4.2 Canary 2 Release 2 (x86 only) [Build 14C2816R2] (latest release: August 16, 2021)
+Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
+
+- we recommend all users update to this release immediately.
+- kernel panic fix for x86 systems.
+- immediate security patch for web browser on x86 systems.
+
 ### unicorn 1.4.2 Canary 2 [Build 14C2801] (latest release: August 4, 2021)
 Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
