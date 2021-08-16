@@ -14,6 +14,7 @@ Yes, we'll continue pushing out features updates until unicorn 1.7, after which 
 
 ## Deprecation Roadmap
 (**could be subject to change at any time!**)
+- unicorn 1.4.2-x86-R2: x86 emergency build for Canary 2, marked as Release 2. Last 1.4 emergency fix to be x86 only on a non-deprecated release.
 - unicorn 1.5-x86: x86 build will be deprecated; software support continues with feature updates, though you will only be able to upgrade existing x86 builds. No new ISOs will be distributed to ring testers. "-x86" will be added to the build string in order to differentiate the versions on our end, since there will now be two different branches.
 - unicorn 1.5.1-x86: performance and stability update
 - unicorn 1.5.2-x86: security update
