@@ -1,5 +1,6 @@
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
 |---------|------------|------------------|---------------|------------------|------|------------|
+| Canary  | 1.4.2-x86R2  | 14C5816R2        | August 16, 2021 | To be determined | No  | 32-bit     | 
 | Dev     | 1.5        | 15D8804          | August 4, 2021 | To be determined | No   | Both       |
 | Canary  | 1.4.2      | 14C2804          | August 4, 2021 | To be determined | No   | Both       |
 | Beta    | 1.4.1      | 14B2804          | August 4, 2021 | To be determined | No   | Both       |
