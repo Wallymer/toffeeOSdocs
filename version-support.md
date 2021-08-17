@@ -2,10 +2,10 @@
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Dev     | 1.6        | 16B1???        | To be determined | To be determined | No | 64-bit only | 
 | Canary  | 1.5.1      | 15C1???        | To be determined | To be determined | No | 64-bit only |
-| Beta    | 1.5-x86       | 15?????-x86       | To be determined | To be determined | Yes | 32-bit   |
-| Beta    | 1.5        | 15?????          | To be determined | To be determined | Yes | 64-bit   |
+| Beta    | 1.5-x86    | 15B1816-x86    | August 16, 2021 | To be determined | Yes | 32-bit   |
+| Beta    | 1.5        | 15B1816        | August 16, 2021 | To be determined | Yes | 64-bit   |
 | Canary  | 1.4.2-x86R2  | 14C2816R2        | August 16, 2021 | To be determined | No  | 32-bit     | 
-| Dev     | 1.5        | 15D8804          | August 4, 2021 | To be determined | No   | Both       |
+| Dev     | 1.5        | 15D8804          | August 4, 2021 | August 17, 2021 | No   | Both       |
 | Canary  | 1.4.2      | 14C2804          | August 4, 2021 | To be determined | No   | Both       |
 | Beta    | 1.4.1      | 14B2804          | August 4, 2021 | To be determined | No   | Both       |
 | Dev     | 1.5        | 15D7801          | August 1, 2021 | August 5, 2021 | No   | Both       |
