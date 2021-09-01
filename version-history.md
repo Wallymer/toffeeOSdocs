@@ -3,7 +3,7 @@ For beta (more stable, current version), canary (semi-stable, tests of point rel
 
 ## Dev Ring
 ### unicorn 1.6 Dev 1 [Build 16D1831] (latest release: August 31, 2021)
-Before installing this release, please check the [system compatibility](https://github.com/onetwentyfour/unicorndocs/blob/main/system-compatibility.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
+Before installing this release, please check the [changes to 1.6 system compatibility](https://github.com/OneTwentyFour/unicorndocs/blob/main/changes-to-system-compatibility-1.6.md) and [version support](https://github.com/onetwentyfour/unicorndocs/blob/main/version-support.md) docs.
 
 **This build is not available for x86 testers.**
 
