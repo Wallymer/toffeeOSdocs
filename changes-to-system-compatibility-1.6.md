@@ -14,6 +14,6 @@ We will be updating the **64-bit** version's system requirements in unicorn 1.6.
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
 
 ### Storage
-- Minimum storage space needed for install: 72 GB
+- Minimum storage space needed for install: 75 GB
 - Recommended storage space (after install): 320+ GB HDD/SSD  
 Fusion/Hybrid drives are not supported.  
