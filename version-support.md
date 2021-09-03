@@ -1,23 +1,68 @@
-## Currently Supported Builds
-| Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
-|---------|------------|------------------|---------------|------------------|------|------------|
-| Dev     | 1.6        | 16D1831 (+)    | August 31, 2021 | To be determined | No | 64-bit (+)  |
-| Canary  | 1.5.1-x86   | 15C1831-x86    | August 31, 2021 | To be determined | No | 32-bit     |
-| Canary  | 1.5.1      | 15C1831        | August 31, 2021 | To be determined | No | 64-bit     |
-| Beta    | 1.5-x86    | 15B1831-x86    | August 31, 2021 | To be determined | No | 32-bit   |
-| Beta    | 1.5        | 15B1831        | August 31, 2021 | To be determined | No | 64-bit   |
-| Beta    | 1.5-x86-LTS | 15B1831lts-x86  | August 31, 2021 | October 1, 2021 (^) | Yes | 32-bit   |
-| Beta    | 1.5-LTS    | 15B1831lts        | August 31, 2021 | October 1, 2021 (^) | Yes | 64-bit   |
-
-(+) This particular build will not be available for 32-bit users.  
-(^) LTS Builds are supported until this date, after which, you will be able to upgrade to the next LTS release (which comes out every month).
-
+**We're excited to announce changes to several release channels. These changes align more with our software development mission. We hope this change brings more clarity to our releases, their stability, and overall place in development. For more details, we recommend reading [this document](https://github.com/OneTwentyFour/unicorndocs/blob/main/changes-to-release-channels.md)!**
 
 ___
 
+## Currently Supported InDev Builds
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Alpha   | 1.6.1      | u161x86_64-alpha | September 2, 2021 | To be determined | No | x86_64  | 
+| Alpha   | 1.6.1      | u161x86-alpha    | September 2, 2021 | To be determined | No | x86  | 
+| Beta    | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64 |
+| Beta    | 1.5.1-x86   | u151x86-master   | September 2, 2021 | To be determined | No | x86  |
+
+(^) Currently updates are in sync with the Stable branch to allow ample time testers to swap channels due to the changes if they wish. This grace period will end most likely September 5th or 6th, though we may extend it if necessary. **We are considering this to be a separate build than the earlier August 31 release.**
+
+
+## Currently Supported Stable Builds
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Stable  | 1.5.1      | u151x86-master    | September 2, 2021 | To be determined | No | x86     | 
+| Stable  | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64   |
+| Stable  | 1.5-x86-LTS | ults15-x86-master  | August 31, 2021 | October 1, 2021 (^) | Yes | x86   |
+| Stable  | 1.5-LTS    | ults15-x86_64-master | August 31, 2021 | October 1, 2021 (^) | Yes | x86_64   |
+
+(^) Stable LTS Builds are supported until this date, after which, you will be able to upgrade to the next LTS release (which comes out every month).
+
+___
 
 ## Archived & Unsupported Builds
 The below builds are archived and may be unsupported. See "Support End Date" column for more details.
+
+<!--- for x86 channel introduction ## unicorn 1.6-x86
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+|    |          |     |  |  |  |      | 
+-->
+
+## unicorn 1.6
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Alpha   | 1.6        | u16x86_64-alpha | August 31, 2021 | September 3, 2021 | No | x86_64 (+) |
+
+(+) This particular build was not be available for the x86 architecture
+
+## unicorn 1.5.1
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Beta    | 1.5.1      | u151x86_64-beta  | August 31, 2021 | September 3, 2021 | No | x86_64 |
+| Beta    | 1.5.1-x86   | u151x86-beta   | August 31, 2021 | September 3, 2021 | No | x86  |
+
+## unicorn 1.5
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Stable  | 1.5-x86   | u15-x86-master  | September 1, 2021 | September 3, 2021  | Yes | x86      |
+| Stable  | 1.5      | ults15-x86_64-master | September 1, 2021 | September 3, 2021 | Yes | x86_64   |
+
+___
+
+Releases below this line were entered before the [release channel and build string changes](https://github.com/OneTwentyFour/unicorndocs/blob/main/changes-to-release-channels.md) that took place in September 2021.
+___
+
+## unicorn 1.5.1-x86
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Canary  | 1.5.1-x86   | 15C1831-x86    | August 31, 2021 | September 3, 2021 | No | 32-bit     |
+
 
 ## unicorn 1.5
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | 32/64-bit? |
