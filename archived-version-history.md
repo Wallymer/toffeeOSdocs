@@ -1,4 +1,4 @@
-## Version History
+## Version History (Archived)
 For beta (more stable, current version), canary (semi-stable, tests of point releases for current version), dev (upcoming version, definitely not stable) rings.
 
 ## Dev Ring
