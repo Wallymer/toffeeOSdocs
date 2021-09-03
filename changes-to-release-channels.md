@@ -10,3 +10,5 @@ We're changing the names and purposes of our Release Channels effective Septembe
 Users on the previous Beta channel will be automatically moved to the new Beta channel unless they choose to move to Stable in the software update pane (Any downgrades, should there be any required, are possible for these channels as they're currently testing the same release version.)
 
 All users on the previous Canary and Dev channels will be opted in to the new Beta and Alpha channels respectively automatically with no prompt (Downgrades will not be possible for Alpha channel users.)
+
+Despite the Stable branding, we have no plans to release a public beta at this time due to some instability with the current Stable release, unicorn 1.5.
