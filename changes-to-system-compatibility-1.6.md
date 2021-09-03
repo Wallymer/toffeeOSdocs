@@ -1,5 +1,5 @@
-## Changes coming to system compatibility in unicorn 1.6
-We will be updating the **64-bit** version's system requirements in unicorn 1.6. They will be, as follows:
+## Changes coming to system compatibility in unicorn 1.6.1
+We will be updating the **64-bit** version's system requirements in unicorn 1.6.1. They will be, as follows:
 
 ### RAM
 - Minimum: 4GB
@@ -12,6 +12,7 @@ We will be updating the **64-bit** version's system requirements in unicorn 1.6.
   - We do not support AMD CPUs prior to Ryzen 1000 or AMD APUs prior to 2014 A8 due to technical limitations.
 - GPU (64-bit only): NVIDIA GPU launched in 2014 or later.
   - Specifics: GT 705 or later, GTX 745 or later, and GTX Titan or later. 
+  - GPU must support Vulkan.
 
 ### Storage
 - Minimum storage space needed for install: 75 GB
