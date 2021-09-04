@@ -20,6 +20,7 @@ We plan to release 1.6.1 to the Beta channel on September 6, 2021. For now, we'r
 - Server Communicator has been removed from the x86 build.
 - users enrolled in a server environment on x86 builds of unicorn will have their user accounts converted into local ones.
 - users enrolled in a server environment on x86 builds of unicorn will be prompted to contact their administrators about switching to an x86_64 (64-bit) build.
+- Enterprise Mode and Education Mode have been deprecated and are no longer supported on x86 builds. Switch to a x86_64 (64-bit) build to continue receiving support.
 
 ## unicorn Beta Channel
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-indev-builds). Please click the build to see its changelog.
