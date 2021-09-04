@@ -6,7 +6,7 @@ ___
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Alpha  | 1.6.2     | u162x86_64-alpha  | September 3, 2021 | To be determined | No | x86_64   |
-| Alpha  | 1.6.2      | ults162x86-alpha    | September 3, 2021 | To be determined | Yes, when released to Stable | x86 | 
+| Alpha  | 1.6.2-x86     | ults162x86-alpha    | September 3, 2021 | To be determined | Yes, when released to Stable | x86 | 
 | Beta    | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64 |
 | Beta    | 1.5.1-x86   | u151x86-master   | September 2, 2021 | To be determined | No | x86  |
 
