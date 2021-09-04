@@ -5,8 +5,8 @@ ___
 ## Currently Supported InDev Builds
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
-| Alpha   | 1.6.1      | u161x86_64-alpha | September 2, 2021 | To be determined | No | x86_64  | 
-| Alpha   | 1.6.1      | u161x86-alpha    | September 2, 2021 | To be determined | No | x86  | 
+| Alpha  | 1.6.2     | u162x86_64-alpha  | September 3, 2021 | To be determined | No | x86_64   |
+| Alpha  | 1.6.2      | ults162-alpha    | September 3, 2021 | To be determined | Yes, when released to Stable | x86 | 
 | Beta    | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64 |
 | Beta    | 1.5.1-x86   | u151x86-master   | September 2, 2021 | To be determined | No | x86  |
 
@@ -33,6 +33,17 @@ The below builds are archived and may be unsupported. See "Support End Date" col
 |---------|------------|------------------|---------------|------------------|------|------------|
 |    |          |     |  |  |  |      | 
 -->
+
+## unicorn 1.6.1-x86
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Alpha   | 1.6.1      | u161x86-alpha    | September 2, 2021 | September 4, 2021 | No | x86  | 
+
+## unicorn 1.6.1
+| Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
+|---------|------------|------------------|---------------|------------------|------|------------|
+| Alpha   | 1.6.1      | u161x86_64-alpha | September 2, 2021 | September 4, 2021 | No | x86_64  | 
+
 
 ## unicorn 1.6
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
