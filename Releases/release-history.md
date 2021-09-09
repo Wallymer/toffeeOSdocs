@@ -1,5 +1,5 @@
 ## unicorn Alpha Channel
-These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-indev-builds). Please click the build to see its changelog.
+These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/Releases/release-support-lifecycle.md). Please click the build to see its changelog.
 | Build String | Arch | OS Version Identifier | Date Released |
 |--------------|------|-----------------------|---------------|
 | [u162x86_64-alpha](#unicorn-1-6-2) | x86_64 | 1.6.2 | September 3, 2021 |
