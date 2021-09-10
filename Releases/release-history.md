@@ -28,10 +28,10 @@ We plan to release 1.6.1 to the Beta channel on September 6, 2021. For now, we'r
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-indev-builds). Please click the build to see its changelog.
 | Build String | OS Version Identifier | Date Released |
 |--------------|-----------------------|---------------|
-| u151x86_64-master | 1.5.1  | September 2, 2021 |
-| u151x86-master | 1.5.1-x86 | September 2, 2021 |
+| [u151x86_64-master](#unicorn-1-5-1--beta--) | 1.5.1  | September 2, 2021 |
+| [u151x86-master](#unicorn-1-5-1) | 1.5.1-x86 | September 2, 2021 |
 
-### unicorn 1.5.1
+### unicorn 1.5.1 (beta)
 | **Released** September 2, 2021 |
 |--------------------------------|
 
@@ -42,8 +42,8 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-stable-builds). Please click the build to see its changelog.
 | Build String | OS Version Identifier | Date Released |
 |--------------|-----------------------|---------------|
-| u151x86_64-master | 1.5.1       | September 2, 2021 |
-| u151x86-master  | 1.5.1-x86    | September 2, 2021 |
+| [u151x86_64-master](#unicorn-1-5-1--stable--) | 1.5.1       | September 2, 2021 |
+| [u151x86-master](#unicorn-1-5-1--stable--) | 1.5.1-x86    | September 2, 2021 |
 
 ### unicorn 1.5.1 (stable)
 | **Released** September 2, 2021 |
@@ -70,6 +70,15 @@ These builds are no longer in-ring and are [not supported](https://github.com/On
 These builds are no longer in-ring and are [not supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#archived--unsupported-builds).
 | Build String | OS Version Identifier | Date Released |
 |--------------|-----------------------|---------------|
+| u151x86_64-master | 1.5.1  | September 2, 2021 |
+| u151x86-master | 1.5.1-x86 | September 2, 2021 |
+
+### unicorn 1.5.1
+| **Released** September 2, 2021 |
+|--------------------------------|
+
+- bug fixes
+- updated to Stable seed to allow users to switch release channels following the [changes we made](https://github.com/OneTwentyFour/unicorndocs/blob/main/changes-to-release-channels.md) earlier this week.
 
 ## Previous unicorn Stable Channel Builds
 These builds are no longer in-ring and are [not supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#archived--unsupported-builds).
