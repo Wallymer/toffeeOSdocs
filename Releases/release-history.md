@@ -40,11 +40,11 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-stable-builds). Please click the build to see its changelog.
 | Build String | OS Version Identifier | Date Released |
 |--------------|-----------------------|---------------|
-| [u151x86_64-master](#unicorn-1-5-1-stable) | 1.5.1       | September 2, 2021 |
-| [u151x86-master](#unicorn-1-5-1-stable) | 1.5.1-x86    | September 2, 2021 |
+| [u151x86_64-master](#unicorn-1-5-2-stable) | 1.5.2       | September 18, 2021 |
+| [u151x86-master](#unicorn-1-5-2-stable) | 1.5.2-x86    | September 18, 2021 |
 
-### unicorn 1.5.1 (stable)
-| **Released** September 2, 2021 |
+### unicorn 1.5.2 (stable)
+| **Released** September 18, 2021 |
 |--------------------------------|
 
 - bug fixes
