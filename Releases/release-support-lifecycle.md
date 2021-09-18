@@ -6,22 +6,19 @@ ___
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Alpha  | 1.6.2     | u162x86_64-alpha  | September 3, 2021 | To be determined | No | x86_64   |
-| Alpha  | 1.6.2-x86     | ults162x86-alpha    | September 3, 2021 | To be determined | Yes, when released to Stable | x86 | 
-| Beta    | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64 |
-| Beta    | 1.5.1-x86   | u151x86-master   | September 2, 2021 | To be determined | No | x86  |
-
-(^) Currently updates are in sync with the Stable branch to allow ample time testers to swap channels due to the changes if they wish. This grace period will end most likely September 5th or 6th, though we may extend it if necessary. **We are considering this to be a separate build than the earlier August 31 release.**
-
+| Alpha  | 1.6.2-x86     | ults162x86-alpha    | September 3, 2021 | To be determined | Yes, when released to Stable | x86 |
+| Beta | 1.6.1       | u161x86_64-beta | September 18, 2021 | To be determined | No | x86_64 | 
+| Beta | 1.6.1-x86   | u161x86-beta    | September 18, 2021 | To be determined | No | x86 | 
 
 ## Currently Supported Stable Builds
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
-| Stable  | 1.5.1      | u151x86-master    | September 2, 2021 | To be determined | No | x86     | 
-| Stable  | 1.5.1      | u151x86_64-master  | September 2, 2021 | To be determined | No | x86_64   |
+| Stable  | 1.5.2      | u151x86_64-master | September 18, 2021 | To be determined | No | x86_64 |
+| Stable  | 1.5.2      | u151x86_64-master | September 18, 2021 | To be determined | No | x86_64 |
 | Stable  | 1.5-x86-LTS | ults15-x86-master  | August 31, 2021 | October 1, 2021 (^) | Yes | x86   |
 | Stable  | 1.5-LTS    | ults15-x86_64-master | August 31, 2021 | October 1, 2021 (^) | Yes | x86_64   |
 
-(^) Stable LTS Builds are supported until this date, after which, you will be able to upgrade to the next LTS release (which comes out every month).
+(^) Stable LTS Builds are supported until this date, after which, you will be able to upgrade to the next LTS release (which comes out around every two months).
 
 ___
 
@@ -55,6 +52,10 @@ The below builds are archived and may be unsupported. See "Support End Date" col
 ## unicorn 1.5.1
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
+| Stable  | 1.5.1      | u151x86-master    | September 2, 2021 | September 19, 2021 | No | x86     | 
+| Stable  | 1.5.1      | u151x86_64-master  | September 2, 2021 | September 19, 2021 | No | x86_64   |
+| Beta    | 1.5.1      | u151x86_64-master  | September 2, 2021 | September 19, 2021 | No | x86_64 |
+| Beta    | 1.5.1-x86   | u151x86-master   | September 2, 2021 | September 19, 2021 | No | x86  |
 | Beta    | 1.5.1      | u151x86_64-beta  | August 31, 2021 | September 3, 2021 | No | x86_64 |
 | Beta    | 1.5.1-x86   | u151x86-beta   | August 31, 2021 | September 3, 2021 | No | x86  |
 
