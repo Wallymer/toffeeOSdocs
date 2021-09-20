@@ -5,6 +5,7 @@ NC = No API changes in this release
 
 | unicorn version | API Level (Target) |
 |-----------------|--------------------|
+| 1.6.4 | 164 |
 | 1.6.3 | 161 (NC) |
 | 1.6.2 | 161 (NC) |
 | 1.6.1 | 161 |
