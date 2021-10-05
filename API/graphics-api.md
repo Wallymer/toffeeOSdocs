@@ -3,4 +3,4 @@
 
 **In unicorn 1.6.2**, the Vulkan Graphics API will be enabled by default on x86_64 (64-bit) systems, and OpenGL will be deprecated and disabled by default for these systems. It will still be available through other means, such as PPAs, our repos, etc., however.
 
-**In unicorn 1.10**, the Vulkan Graphics API will become the only API bundled and enabled by default. OpenGL will not be able to install on this version of unicorn or later.
+**In unicorn 1.9**, the Vulkan Graphics API will become the only API bundled and enabled by default. OpenGL will not be able to install on this version of unicorn or later.
