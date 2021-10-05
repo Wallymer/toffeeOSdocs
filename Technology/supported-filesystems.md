@@ -1,12 +1,12 @@
 ## Supported Filesystems
 
-### Filesystems supported in unicorn 1.5 and later
+### Filesystems supported in unicorn Developer Version 1.5 and later
 - NTFS
 - FAT32
 - ext4 **(OS default)**
 - ext3 *(also backwards compatible with drives formatted with the filesystem in unicorn Developer Version 1.4)*
 
-### Filesystems supported in unicorn 1.4 and earlier
+### Filesystems supported in unicorn Developer Version 1.4 and earlier
 - NTFS
 - ext3 **(OS default)***
 
