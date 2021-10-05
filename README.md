@@ -5,4 +5,4 @@ You may know this as toffeeOS, our in-house and currently secret OS environment 
 Please email [itest-unicorn.support@onetwentyfour.net](mailto:itest-unicorn.support@onetwentyfour.net) **internally** for assistance.
 
 ### Reporting a Bug
-If you're internal, and find a bug, email Bug Reporting at [bugs@unicorn.onetwentyfour.net](mailto:itest-unicorn.bugs@onetwentyfour.net) **internally**.
+If you're internal, and find a bug, email Bug Reporting at [itest-unicorn.bugs@onetwentyfour.net](mailto:itest-unicorn.bugs@onetwentyfour.net) **internally**.
