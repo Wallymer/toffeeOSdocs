@@ -4,7 +4,7 @@
 - NTFS
 - FAT32
 - ext4 **(OS default)**
-- ext3 *(also backwards compatible with drives formatted with the filesystem in unicorn Developer Version 1.4)*
+- ext3 *(also backwards compatible with drives formatted with the filesystem in unicorn Development Version 1.4)*
 
 ### Filesystems supported in unicorn Development Version 1.4 and earlier
 - NTFS
