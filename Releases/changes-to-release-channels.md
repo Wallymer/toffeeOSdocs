@@ -11,4 +11,4 @@ Users on the previous Beta channel will be automatically moved to the new Beta c
 
 All users on the previous Canary and Dev channels will be opted in to the new Beta and Alpha channels respectively automatically with no prompt (Downgrades will not be possible for Alpha channel users.)
 
-Despite the Stable branding, we have no plans to release a public beta at this time due to some instability with the current Stable release, unicorn 1.5.
+Despite the Stable branding, we have no plans to release a public beta at this time due to some instability with the current Stable release, unicorn Development Version 1.5.
