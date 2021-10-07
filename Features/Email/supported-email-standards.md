@@ -4,8 +4,9 @@ We're happy to support the most up-to-date standards for email security, fetchin
 unicorn supports the following:
 - mailboxes hosted on Exchange Server 2013, 2016, 2019
   - Microsoft 365/Exchange Online not currently supported.
-  - Exchange Server 2010 and 2013 have reached end-of-life and are no longer supported by Microsoft.
-  - We will continue to support Exchange Server 2013 until at least February 2022, at which point, we will remove support for it from unicorn.
+  - Exchange Server 2010 have reached end-of-life and is no longer supported by Microsoft.
+  - For security reasons, we recommend upgrading to Exchange Server 2016 or later to continue checking your email using unicorn.
+    - We will continue to support Exchange Server 2013 until at least February 2022, at which point, we will remove support for it from unicorn.
 - IMAP4 w/ SSL (recommended)
 - POP3 w/ SSL (not recommended)
 - SMTP w/ SSL
