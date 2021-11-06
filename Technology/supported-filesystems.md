@@ -1,6 +1,13 @@
 ## Supported Filesystems
 
-### Filesystems supported in unicorn Development Version 1.5 and later
+### Filesystems supported in unicorn Development Version 1.7 (current)
+- NTFS
+- FAT32
+- WlymrFS (codename; experimental support, must enable manually)
+- ext4 **(OS default)**
+- ext3 *(also backwards compatible with drives formatted with the filesystem in unicorn Development Version 1.4)*
+
+### Filesystems supported in unicorn Development Version 1.5 and 1.6
 - NTFS
 - FAT32
 - ext4 **(OS default)**
