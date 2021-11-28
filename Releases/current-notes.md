@@ -8,6 +8,9 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 ### unicorn 1.6.3
 | **Released** November 28, 2021 for x86_64 systems |
 |--------------------------------|
+
+| **Build**: 163rk1 |
+|--------------------------------|
 - bug fixes
 	- this release fixes an issue with UX in the Settings app
 	- this release fixes an issue where, in some cases, Syncfon would crash upon automatic sync with a narwhal client device.
@@ -19,6 +22,9 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 | **Released** November 28, 2021 for x86 (32-bit) systems |
 |--------------------------------|
 | **LTS Support Ends On** TBD (not released to Stable).|
+
+| **Build**: 163rl1 |
+|--------------------------------|
 
 - unicorn LTS is available as upgrade-only for x86 systems as of right now, no ISOs are being distributed. This is easily worked around by grabbing an older ISO from the Jira and going from there, but we aren't providing any directly.
 - bug fixes
@@ -35,6 +41,10 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 ### unicorn 1.6.2
 | **Released** November 28, 2021 |
 |--------------------------------|
+
+| **Build**: 161rk2 |
+|--------------------------------|
+
 - bug fixes
 	- this release fixes an issue with UX in the Settings app
 	- this release fixes an issue where, in some cases, Syncfon would crash upon automatic sync with a narwhal client device.
@@ -42,6 +52,9 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 - new system requirements announced earlier this year are now enforced.
 
 **x86 build changes**
+| **Build**: 161rl2 |
+|--------------------------------|
+
 - x86 builds are now LTS by default. We plan to service 1.6.x with new x86 builds (with the latest security enhancements) until at least February 1, 2022.
 	- Release notes will be separated from x86_64 versions, as LTS support is paused for the architecture.
 	- LTS versions will be branded as "unicorn LTS"
@@ -59,6 +72,9 @@ These releases are currently in-ring and are [supported](https://github.com/Wall
 
 ### unicorn 1.6.1
 | **Released** November 28, 2021 |
+|--------------------------------|
+
+| **Build**: 161rk1 (x86_64) / 161rl1 (x86) |
 |--------------------------------|
 
 - bug fixes
