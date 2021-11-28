@@ -29,8 +29,8 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/version-support.md#currently-supported-indev-builds). Please click the build to see its changelog.
 | Build String | OS Version Identifier | Date Released |
 |--------------|-----------------------|---------------|
-| [u162x86_64-master](#unicorn-1-6-2) | 1.6.2  | November 28, 2021 |
-| [ults162x86-master](#unicorn-1-6-2) | 1.6.2lts-x86 | November 28, 2021 |
+| [u162x86_64-beta](#unicorn-1-6-2) | 1.6.2  | November 28, 2021 |
+| [ults162x86-beta](#unicorn-1-6-2) | 1.6.2lts-x86 | November 28, 2021 |
 
 ### unicorn 1.6.2
 | **Released** November 28, 2021 |
