@@ -62,4 +62,4 @@ These releases are currently in-ring and are [supported](https://github.com/Wall
 |--------------------------------|
 
 - bug fixes
-- updated to Stable seed to allow users to switch release channels following the [changes we made](https://github.com/Wallymer/unicorndocs/blob/main/changes-to-release-channels.md) earlier this week.
+- updated to Stable seed to allow users to switch release channels following the [changes we made](https://github.com/Wallymer/unicorndocs/blob/main/changes-to-release-channels.md) to them.
