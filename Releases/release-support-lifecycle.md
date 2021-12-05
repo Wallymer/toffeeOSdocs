@@ -14,8 +14,7 @@ ___
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Stable  | 1.6.2     | u162x86_64-master  | December 4, 2021 | To be determined | No | x86_64   |
-| Stable | 1.6.2-x86-LTS | ults-162x86-master | December 4, 2021 | February 1, 2021 (^) | Yes | x86 |
-
+| Stable | 1.6.2-x86-LTS | ults-162x86-master | December 4, 2021 | March 1, 2021 (^) | Yes | x86 |
 
 (^) Stable LTS builds are supplemented by point releases (x.x) and are supported until at least this date, after which, you will be able to upgrade to the next LTS release (which comes out around every three months).
 
