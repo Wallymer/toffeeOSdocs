@@ -27,7 +27,7 @@ We are no longer showing **all** of these directly on the doc in order to reduce
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
 | Beta  | 1.6.2     | u162x86_64-beta  | November 28, 2021 | December 3, 2021 | No | x86_64   |
-| Beta  | 1.6.2-x86-LTS    | ults162x86-beta    | November 28, 2021 | December 3, 2021 | Yes, when released to Stable | x86 |
+| Beta  | 1.6.2-x86-LTS    | ults162x86-beta    | November 28, 2021 | December 3, 2021 | Yes | x86 |
 | Stable | 1.6.1       | u161x86_64-master | November 28, 2021 | December 3, 2021 | No | x86_64 | 
 | Stable | 1.6.1-x86   | u161x86-master    | November 28, 2021 | December 3, 2021 | No | x86 |
 | Stable  | 1.5-x86-LTS | ults15-x86-master  | August 31, 2021 | December 3, 2021 | Yes | x86   |
