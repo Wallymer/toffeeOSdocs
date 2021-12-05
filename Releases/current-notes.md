@@ -3,7 +3,7 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 | Build String | Arch | OS Version Identifier | Date Released |
 |--------------|------|-----------------------|---------------|
 | [u164x86_64-alpha](#unicorn-1-6-4) | x86_64 | 1.6.4 | December 4, 2021 |
-| [ults163x86-alpha](#unicorn-LTS-1-6-4) | x86 | 1.6.4-x86-LTS | December 4, 2021 |
+| [ults164x86-alpha](#unicorn-LTS-1-6-4) | x86 | 1.6.4-x86-LTS | December 4, 2021 |
 
 ### unicorn 1.6.4
 | **Released** December 4, 2021 for x86_64 systems |
@@ -12,7 +12,7 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 | **Build**: 163rk2 |
 |--------------------------------|
 - added new integrated controls for Syncfon in the system manager.
-- (Linux) ``kernel`` updated to ``5.10`` from ``5.4``.
+- (Linux) Linux ``kernel`` updated to version ``5.10`` from version ``5.4``.
 
 ### unicorn LTS 1.6.4
 | **Released** December 4, 2021 for x86 (32-bit) systems |
@@ -22,7 +22,7 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 | **Build**: 163rl2 |
 |--------------------------------|
 
-- LTS 1.6.4 remains on ``kernel`` version ``5.4``.
+- (Linux) unicorn LTS 1.6.4 remains on Linux ``kernel`` version ``5.4``.
 - deprecated `syncfon` package officially for 32-bit systems.
 
 ## unicorn Beta Channel
