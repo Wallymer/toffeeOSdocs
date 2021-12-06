@@ -1,4 +1,7 @@
-**We're excited to announce changes to several release channels. These changes align more with our software development mission. We hope this change brings more clarity to our releases, their stability, and overall place in development. For more details, we recommend reading [this document](https://github.com/Wallymer/unicorndocs/blob/main/Releases/changes-to-release-channels.md)!**
+---
+title: Release Lifecycle
+---
+**We're excited to announce changes to several release channels. These changes align more with our software development mission. We hope this change brings more clarity to our releases, their stability, and overall place in development. For more details, we recommend reading [this document](/archived/changes-to-release-channels/)!**
 
 ___
 
