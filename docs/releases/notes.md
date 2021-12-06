@@ -1,5 +1,9 @@
+---
+title: Current Release Notes
+---
 ## unicorn Alpha Channel
 These releases are currently in-ring and are [supported](https://github.com/OneTwentyFour/unicorndocs/blob/main/Releases/release-support-lifecycle.md). Please click the build to see its changelog.
+
 | Build String | Arch | OS Version Identifier | Date Released |
 |--------------|------|-----------------------|---------------|
 | [u164x86_64-alpha](#unicorn-1-6-4) | x86_64 | 1.6.4 | December 4, 2021 |
@@ -8,19 +12,16 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 ### unicorn 1.6.4
 | **Released** December 4, 2021 for x86_64 systems |
 |--------------------------------|
-
 | **Build**: 163rk2 |
-|--------------------------------|
+
 - added new integrated controls for Syncfon in the system manager.
 - (Linux) Linux ``kernel`` updated to version ``5.10`` from version ``5.4``.
 
 ### unicorn LTS 1.6.4
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
-| **LTS Support Ends On** March 1, 2021 (Stable) |
-
 | **Build**: 163rl2 |
-|--------------------------------|
+| **LTS Support Ends On** March 1, 2021 (Stable) |
 
 - (Linux) unicorn LTS 1.6.4 remains on Linux ``kernel`` version ``5.4``.
 - deprecated `syncfon` package officially for 32-bit systems.
@@ -35,9 +36,8 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 ### unicorn 1.6.3
 | **Released** December 4, 2021 for x86_64 systems |
 |--------------------------------|
-
 | **Build**: 163rk1 |
-|--------------------------------|
+
 - bug fixes
 	- this release fixes an issue with UX in the Settings app
 	- this release fixes an issue where, in some cases, Syncfon would crash upon automatic sync with a narwhal client device.
@@ -48,10 +48,8 @@ These releases are currently in-ring and are [supported](https://github.com/OneT
 ### unicorn LTS 1.6.3
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
-| **LTS Support Ends On** March 1, 2021 (Stable) |
-
 | **Build**: 163rl1 |
-|--------------------------------|
+| **LTS Support Ends On** March 1, 2021 (Stable) |
 
 - unicorn LTS is available as upgrade-only for x86 systems as of right now, no ISOs are being distributed. This is easily worked around by grabbing an older ISO from the Jira and going from there, but we aren't providing any directly.
 - bug fixes
@@ -69,9 +67,7 @@ These releases are currently in-ring and are [supported](https://github.com/Wall
 ### unicorn 1.6.2
 | **Released** December 4, 2021 |
 |--------------------------------|
-
 | **Build**: 161rk2 |
-|--------------------------------|
 
 - bug fixes
 	- this release fixes an issue with UX in the Settings app
