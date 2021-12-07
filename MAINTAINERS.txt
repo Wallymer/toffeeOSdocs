@@ -16,7 +16,7 @@ Owen "Archam" Archambault <archam@dsys.wallymer.com>
 Owen "Archam" Archambault <oarcham@git.wallymer.com>
 Faith Barnes <faithbarnes@dsys.wallymer.com>
 Dave Efrenc <daveefrenc@wallymer.com>
-David Efrenc <efrencd@wallymer.com>
+Davis Efrenc <efrencd@wallymer.com>
 Davis Efrenc <efrencd@dvi.onetwentyfour.net>
 Davis Efrenc <efrencd@git.wallymer.com>
 Lance "Loc" OC <loc@wallymer.com> 
