@@ -10,7 +10,7 @@ We realize this change is difficult. But x86 systems are unpopular now and 64-bi
 A: No, 32-bit apps will continue to be supported for backwards compatibility reasons, even after this change.
 
 **Q: Will there be security updates pushed out after it is deprecated?**  
-A: Yes, we'll continue pushing out features updates until unicorn 1.7, after which point, only security/performance/stability updates will be rolled out. x86 systems will not get unicorn 1.8.
+A: Yes, we'll continue pushing out features updates until unicorn 1.7, after which point, only security/performance/stability updates will be rolled out. x86 systems will not get unicorn 1.9.
 
 **Q: Why did you extend the 32-bit deprecation date**  
 A: As requested by testers, it gives us (and them) a bit more buffer room to upgrade systems, and refine other branches of development to make even more changes before pulling the plug. Feature updates and compatibility, however, will be limited.
