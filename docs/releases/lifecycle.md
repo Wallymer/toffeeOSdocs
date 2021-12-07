@@ -24,7 +24,7 @@ ___
 ___
 
 ## Archived & Unsupported Builds
-We are no longer showing **all** of these directly on the doc in order to reduce confusion. We plan to list the most recent **Stable** versions below (along with their support end dates) to encourage testers to upgrade. If you're interested in the old version, you can use the [diff feature for the commit](https://github.com/Wallymer/unicorndocs/commit/b149af5fac2f6ff4dc94d4d75deb2e7d4ac73bc6) in which we updated this. 
+We are no longer showing **all** of these directly on the doc in order to reduce confusion. We plan to list the most recent **Stable** versions below (along with their support end dates) to encourage testers to upgrade.
 
 | Channel | OS Version | Build | Date Released | Support End Date | LTS? | Architecture |
 |---------|------------|------------------|---------------|------------------|------|------------|
