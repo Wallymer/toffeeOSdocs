@@ -13,4 +13,4 @@ We only fix site vulnerabilities for the three (3) most recent releases. For ref
 | 10-7-2021 | :x: |
 ## Reporting a Vulnerability
 
-To report a vulnerability, please reach out to [wallymer@wallymer.com](mailto:wallymer@wallymer.com)
+To report a vulnerability, please reach out to [wallymer@wallymer.com](mailto:wallymer@wallymer.com). **Please send your email in plain text. HTML emails are NOT permitted.**
