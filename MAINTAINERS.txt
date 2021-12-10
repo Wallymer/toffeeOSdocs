@@ -26,6 +26,7 @@ Lance "Loc" OC <lanceoc@git.wallymer.com>
 Logan Barnes <loganba@wallymer.com>
 Logan O'Conner <logocon@wallymer.com>
 Logan O'Conner (git) <logocon@git.wallymer.com>
+Sherlock - Bug Detective <sherlock@git.wallymer.com>
 Slade Watkins <slade@sladewatkins.com>
 Slade Watkins <watkins@wallymer.com>
 toffeeOS - Internal Git Connector <unicornrepo@git.wallymer.com>
