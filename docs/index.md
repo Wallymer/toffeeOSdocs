@@ -5,4 +5,4 @@ You might know this as toffeeOS, our in-house and currently secret OS environmen
 Please email [unicorn@mail-internal.wallymer.com](mailto:unicorn@mail-internal.wallymer.com) **internally** for assistance.
 
 ### Reporting a Bug
-If you're internal, and find a bug, report it on our **Internal** [Jira Project](https://jira-internal.wallymer.com/browse/UNI/). You'll have to use a OneTwentyFour-sanctioned VPN to access this.
+If you're internal, and find a bug, report it on our **Internal** [Jira Project](https://wallymer.atlassian.net/browse/UNI/). While you no longer need an internally sanctioned VPN to access this, you will have to use a Wallymer-managed Atlassian account to access services like Jira, Confluence, and Trello.
