@@ -11,12 +11,13 @@ Slade Watkins <watkins@wallymer.com>
 
 \\ Huge thank you to all of our wonderful developers and maintainers <3
 
+Adam Alexander <adamalex@wallymer.com>
 alexander hodge <alexhodge@wallymer.com>
 alexander hodge <ahodg@git.wallymer.com>
 alexander hodge <hodge@onetwentyfour.net>
 Allen WBS <allenwbs@git.wallymer.com>
 Boblin Bot <boblincr@dvi.onetwentyfour.net>
-Boblin Bot - Git Connector (upstreamed code) <boblin@git.wallymer.com>
+Boblin Bot - Git Connector (upstreamed code) <boblinupstreamed@git.wallymer.com>
 Owen "Archam" Archambault <owenar@onetwentyfour.net>
 Owen "Archam" Archambault <archam@wallymer.com>
 Owen "Archam" Archambault <archam@git.wallymer.com>
@@ -35,8 +36,11 @@ Logan O'Conner (git) <logocon@git.wallymer.com>
 Sherlock - Bug Detective <sherlock@git.wallymer.com>
 Slade Watkins <slade@sladewatkins.com>
 Slade Watkins <watkins@wallymer.com>
+TimT <timt@git.wallymer.com>
 toffeeOS - Internal Git Connector <unicornrepo@git.wallymer.com>
 toffeeOS - Internal Exchange Mailing List <unicorn@mail-int.wallymer.com>
+Wallymer Jira Connection <jira@wallymer.com>
+Wallymer Jira Mail List - toffeeOS <toffeeos@mail-int.wallymer.com>
 zeezee <zeezee@wallymer.com>
 zeezee <zeezee@onetwentyfour.net>
 zeezee-git <zeezee@git.wallymer.com>
