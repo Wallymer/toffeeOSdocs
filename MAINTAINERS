@@ -1,5 +1,5 @@
 \\ unicorn Maintainers
-\\ Documentation for Unicorn (git) <unicorndocs@mailman.dev-int.wallymer.com> [Internal Developer Mailing List only]
+\\ Documentation for Unicorn (git) <unicorndocs@mint.wallymer.com> [Internal Developer Mailing List only]
 \\ 
 
 Document Maintainers: 
@@ -11,29 +11,30 @@ Slade Watkins <watkins@wallymer.com>
 
 \\ Huge thank you to all of our wonderful developers and maintainers <3
 
-Adam Alexander <madarazzi@wallymer.com>
-Alexander, Adam <madarazzi@mail-int.wallymer.com>
+Adam Alex (Git) <madarazzi@git.wallymer.com>
+Alexander, Adam <madarazzi@mint.wallymer.com>
 alexander hodge <alexhodge@wallymer.com>
 alexander hodge <ahodg@git.wallymer.com>
 Allen WBS <allenwbs@git.wallymer.com>
 Archam Archambault <archam@wallymer.com>
-Archambault, Owen "Archam" (Exchange) <archam@mail-int.wallymer.com>
-Barnes, Logan (Exchange) <loganba@mail-int.wallymer.com>
-Boblin Bot <boblincr@dvi.onetwentyfour.net>
+Archambault, Owen "Archam" (Exchange) <archam@mint.wallymer.com>
+Barnes, Logan (Exchange) <loganba@mint.wallymer.com>
+Boblin Bot - Code Review <boblincode@git.wallymer.com>
 Boblin Bot - Git Connector (upstreamed code) <boblinupstreamed@git.wallymer.com>
+cwatson <cwatson@git.wallymer.com>
+Chuck Watson <cwatson@wallymer.com>
 Faith Barnes <faithbarnes@wallymer.com>
 Faith Barnes <faithbarnes@git.wallymer.com>
 Dave Efrenc <daveefrenc@wallymer.com>
-Dave Efrenc Jr <efrencd@wallymer.com>
-dave efrenc git <efrencd@git.wallymer.com>
-Efrenc, Dave (Exchange) <efrencd@mail-int.wallymer.com>
+Dave Efrenc (Git) <daveefrenc@git.wallymer.com>
+Efrenc, Dave (Exchange) <daveefrenc@mint.wallymer.com>
+Holmes - PR Bot <holmes@git.wallymer.com>
 K Garfield <kgarf@wallymer.com>
 K Garfield <kgarf@git.wallymer.com>
 Keith G <keith@wallymer.com>
 Lance "Loc" OC <lanceoc@wallymer.com> 
 Lance "Loc" OC <lanceoc@git.wallymer.com>
 Logan Barnes <loganba@wallymer.com>
-Logan O'Conner <logocon@wallymer.com>
 Logan O'Conner (git) <logocon@git.wallymer.com>
 Owen Archambault <archam@git.wallymer.com>
 Sherlock - Bug Detective <sherlock@git.wallymer.com>
@@ -41,9 +42,10 @@ Slade Watkins <slade@sladewatkins.com>
 Slade Watkins <watkins@wallymer.com>
 TimT <timt@git.wallymer.com>
 toffeeOS - Internal Git Connector <unicornrepo@git.wallymer.com>
-toffeeOS - Internal Exchange Mailing List <unicorn@mail-int.wallymer.com>
+toffeeOS - Internal Exchange Mailing List <unicorn@mint.wallymer.com>
+toffeeOS - Internal Kernel Devs Mailing List (Exchange) <kernelexchange@mint.wallymer.com>
 Wallymer Jira Connection <jira@wallymer.com>
-Wallymer Jira Mail List - toffeeOS <toffeeos@mail-int.wallymer.com>
+Watkins, Slade (Exchange) <watkins@mint.wallymer.com>
+Watson, Chuck (Exchange) <cwatson@mint.wallymer.com>
 zeezee <zeezee@wallymer.com>
-zeezee <zeezee@onetwentyfour.net>
 zeezee-git <zeezee@git.wallymer.com>
