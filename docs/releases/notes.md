@@ -2,12 +2,7 @@
 title: Current Release Notes
 ---
 ## unicorn Alpha Channel
-These releases are currently in-ring and are [supported](/releases/lifecycle/). Please click the build to see its changelog.
-
-| Build String | Arch | OS Version Identifier | Date Released |
-|--------------|------|-----------------------|---------------|
-| [u164x86_64-alpha](#unicorn-1-6-4) | x86_64 | 1.6.4 | December 4, 2021 |
-| [ults164x86-alpha](#unicorn-LTS-1-6-4) | x86 | 1.6.4-x86-LTS | December 4, 2021 |
+These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
 ### unicorn 1.6.4
 | **Released** December 4, 2021 for x86_64 systems |
@@ -17,7 +12,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 - added new integrated controls for Syncfon in the system manager.
 - (Linux) Linux ``kernel`` updated to version ``5.10`` from version ``5.4``.
 
-### unicorn LTS 1.6.4
+### unicorn 1.6.4 LTS
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
 | **Build**: 163rl2 |
@@ -45,7 +40,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 - performance improvements
 - new system requirements announced earlier this year are now enforced.
 
-### unicorn LTS 1.6.3
+### unicorn 1.6.3 LTS
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
 | **Build**: 163rl1 |
@@ -75,9 +70,22 @@ These releases are currently in-ring and are [supported](https://github.com/Wall
 - performance improvements
 - new system requirements announced earlier this year are now enforced.
 
-**x86 build changes**
-| **Build**: 161rl2 |
+### unicorn 1.6.2 LTS
+| **Released** December 13, 2021 |
 |--------------------------------|
+| **Build**: 161rk3 |
+
+- Android security patches for November-December 2021
+- OS security patches for December 2021
+- updated software repositories
+- patched apt to prevent removing the desktop environment (for real this time)
+- Linux kernel updated to stable release of 5.4.164
+
+| **Released** December 4, 2021 |
+|--------------------------------|
+| **Build**: 161rk2 |
+
+**Please update to build 161rk3 for important security fixes.**
 
 - x86 builds are now LTS by default. We plan to service 1.6.x with new x86 builds (with the latest security enhancements) until at least February 1, 2022.
 	- Release notes will be separated from x86_64 versions, as LTS support is paused for the architecture.

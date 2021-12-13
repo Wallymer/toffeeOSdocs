@@ -16,4 +16,5 @@ NC = No API changes in this release
 | 1.6.5 | Planned | 163 (NC) |
 | 1.6.4 | Alpha | 163 (NC) |
 | 1.6.3 | Beta | 163 |
+| 1.6.2 LTS | Stable | 161 (NC) |
 | 1.6.2 | Stable | 161 (NC) |
