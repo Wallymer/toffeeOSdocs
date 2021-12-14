@@ -5,9 +5,19 @@ title: Current Release Notes
 These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
 ### unicorn 1.6.4
+| **Released** December 14, 2021 for x86_64 systems |
+|--------------------------------|
+| **Build**: 163rk3 |
+
+64-bit only.
+- System: December security patches
+- Android Subsystem: security updates for November-December 2021
+
 | **Released** December 4, 2021 for x86_64 systems |
 |--------------------------------|
-| **Build**: 163rk2 |
+| **Build**: 163rk2 | 
+
+**Please update to build 163rk3 for important fixes.**
 
 - added new integrated controls for Syncfon in the system manager.
 - (Linux) Linux ``kernel`` updated to version ``5.10`` from version ``5.4``.
@@ -57,7 +67,6 @@ These releases are currently in-ring and are [supported](https://github.com/Wall
 |--------------|-----------------------|---------------|
 | [u162x86_64-master](#unicorn-1-6-2) | 1.6.2  | December 4, 2021 |
 | [u162x86-master](#unicorn-1-6-2) | 1.6.2-x86-LTS | December 4, 2021 |
-
 
 ### unicorn 1.6.2
 | **Released** December 4, 2021 |
