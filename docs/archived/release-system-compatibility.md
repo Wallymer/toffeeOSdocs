@@ -1,3 +1,10 @@
+---
+title: System Compatibility
+---
+
+
+*Archived and no longer updated by Wallymer. Applies to unicorn Development 1.6.1 and earlier.*
+
 ## unicorn (toffeeOS) system compatibility
 Due to the upcoming [x86 build deprecation](https://github.com/onetwentyfour/unicorndocs/blob/main/x86-build-support.md), we recommend installing unicorn on a 64-bit processor. 
 
