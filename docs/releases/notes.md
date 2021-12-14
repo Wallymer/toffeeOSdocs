@@ -5,6 +5,15 @@ title: Current Release Notes
 These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
 ### unicorn 1.6.4
+| **Released** December 14, 2021 for x86_64 systems |
+|--------------------------------|
+| **Build**: 163rk3 |
+
+64-bit only.
+- System: December security patches
+- Android Subsystem: security updates for November-December 2021
+
+### unicorn 1.6.4
 | **Released** December 4, 2021 for x86_64 systems |
 |--------------------------------|
 | **Build**: 163rk2 |
