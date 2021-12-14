@@ -1,3 +1,5 @@
+*Archived and no longer updated by Wallymer. Applies as long as new channel names are in effect..*
+
 ## Changes to Release Channels  
 We're changing the names and purposes of our Release Channels effective September 2021. This brings clarity to our software development structure and better describes the channels and their purposes of existence.
 
