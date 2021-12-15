@@ -32,11 +32,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - deprecated `syncfon` package officially for 32-bit systems.
 
 ## unicorn Beta Channel
-These releases are currently in-ring and are [supported](/releases/lifecycle/). Please click the build to see its changelog.
-| Build String | OS Version Identifier | Date Released |
-|--------------|-----------------------|---------------|
-| [u163x86_64-beta](#unicorn-1-6-3) | 1.6.3 | December 4, 2021 |
-| [ults163x86-beta](#unicorn-1-6-3) | 1.6.3-x86-LTS | December 4, 2021 |
+These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 
 ### unicorn 1.6.3
 | **Released** December 4, 2021 for x86_64 systems |
@@ -62,11 +58,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 	- this release addresses an issue with `apt` and the graphical package manager that allowed users to effectively destroy `unicorn-desktop` (and all related) packages, removing access to their desktop environment.
 
 ## unicorn Stable Channel
-These releases are currently in-ring and are [supported](https://github.com/Wallymer/unicorndocs/blob/main/version-support.md#currently-supported-stable-builds). Please click the build to see its changelog.
-| Build String | OS Version Identifier | Date Released |
-|--------------|-----------------------|---------------|
-| [u162x86_64-master](#unicorn-1-6-2) | 1.6.2  | December 4, 2021 |
-| [u162x86-master](#unicorn-1-6-2) | 1.6.2-x86-LTS | December 4, 2021 |
+These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
 ### unicorn 1.6.2
 | **Released** December 4, 2021 |
