@@ -35,9 +35,21 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 
 ### unicorn 1.6.3
+| **Released** December 15, 2021 for x86_64 systems |
+|--------------------------------|
+| **Build**: 163rk2b |
+
+64-bit only. x86 (32-bit) systems already have the latest fixes included in this update.
+
+- bug fixes
+	- fixed system instability bug with storing files on spinning media (hard drives) under the deprecated ext3 file system. 
+- System: December security patches
+- Android Subsystem: security updates for November-December 2021
+
 | **Released** December 4, 2021 for x86_64 systems |
 |--------------------------------|
 | **Build**: 163rk1 |
+**Please update to build 163rk2b for important fixes.**
 
 - bug fixes
 	- this release fixes an issue with UX in the Settings app
