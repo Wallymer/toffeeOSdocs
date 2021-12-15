@@ -8,11 +8,11 @@ For reference purposes, the five (5) most recent are shown here.
 
 | Releases | Supported          |
 | ------- | ------------------ |
+| 12-15-2021b | :heavy_check_mark: |
+| 12-15-2021 | :heavy_check_mark: |
 | 12-14-2021 | :heavy_check_mark: |
-| 12-13-2021 | :heavy_check_mark:
-| 12-5-2021 | :heavy_check_mark: |
-| 12-4-2021 | :x: |
-| 11-28-2021b | :x: |
+| 12-13-2021 | :x:
+| 12-5-2021 | :x: |
 
 ## Reporting a Vulnerability
 
