@@ -3,3 +3,5 @@ This license file is here to inform you that copying, redistributing, or otherwi
 This repository is public for the sake of transparency, though we do allow external users to contribute corrections here and there. Please note that the only credit you will receive will be in commit history and will not be public-facing otherwise.
 
 By contributing to this repository, and its documentation, you agree to the terms as stated herein.
+
+Thank you!
