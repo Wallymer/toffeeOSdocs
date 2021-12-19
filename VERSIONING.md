@@ -3,7 +3,7 @@
 ### Pre-release Documentation
 ``YYYY-LETTER##``
 
-``##`` indicates release number. For example, the 13th prerelease of November would be 2021-J13.
+``##`` indicates release number. For example, the 13th prerelease of November would be ``2021-J13``.
 
 | Letter of Alphabet | Corresponding Month |
 |--------------------|---------------------|
