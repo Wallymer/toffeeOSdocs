@@ -6,7 +6,7 @@
 ``##`` indicates release number. For example, the 13th prerelease of November would be 2021-J13.
 
 | Letter of Alphabet | Corresponding Month |
-|------------------------------------------|
+|--------------------|---------------------|
 | A | January |
 | B | February |
 | C | March |
