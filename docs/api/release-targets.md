@@ -8,13 +8,12 @@ NC = No API changes in this release
 
 | unicorn version | Current Channel | API Level (Target) |
 |-----------------|-----------------|--------------------|
-| 1.8 | Planned | 180 |
-| 1.7 LTS | Planned | 170 | 
+| 1.8 and 1.8 LTS | Planned | 180 |
+| 1.7 and 1.7 LTS | Planned | 170 | 
 | 1.6.8 LTS | Planned | 166 (NC) |
 | 1.6.7 LTS | Planned | 166 (NC) |
 | 1.6.6 LTS | Planned | 166 |
-| 1.6.5 | Planned | 165 |
+| 1.6.5 LTS | Planned | 165 |
 | 1.6.4 | Alpha | 163 (NC) |
 | 1.6.3 | Beta | 163 |
-| 1.6.2 LTS | Stable | 161 (NC) |
-| 1.6.2 | Stable | 161 (NC) |
+| 1.6.2 and 1.6.2 LTS | Stable | 161 (NC) |
