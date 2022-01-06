@@ -15,15 +15,31 @@ We do, however, allow forks of this repository so long as they are being used fo
 These instructions are specific to Ubuntu/Debian, as this is what our developers use internally.
 
 Clone this repository using ``git``:  
-```git clone https://github.com/Wallymer/unicorndocs.git```
+```
+
+git clone https://github.com/Wallymer/unicorndocs.git
+
+```
 
 Install ``mkdocs`` through the Terminal:  
-```sudo apt-get install mkdocs```
+```
+
+sudo apt-get install mkdocs
+
+```
 
 Use ``pip`` to install the theme we use:  
-```pip install mkdocs-material```
+```
+
+pip install mkdocs-material
+
+```
 
 Use ``cd unicorndocs`` to head into folder ``git`` made for you.
 
 Finally, make any and all changes, then run this command to spin up a local test server:  
-```mkdocs serve```
+```
+
+mkdocs serve
+
+```
