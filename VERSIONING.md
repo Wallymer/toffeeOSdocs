@@ -21,7 +21,7 @@
 | L | December |
 
 ### Production Documentation
-Versioning usees the date in MM-DD-YYYY format (Eastern Time). *[This may change for future releases; still being discussed internally.]*
+Versioning uses the date in MM-DD-YYYY format (Eastern Time). *[This may change for future releases; still being discussed internally.]*
 
 For example, a release done on November 13th, 2021 would be versioned ``11-13-2021``.
 Should multiple production releases be made in a day, which does happen, a letter will be appended to the end such as ``11-13-2021b`` or ``11-13-2021d`` to make the revision stand out.
