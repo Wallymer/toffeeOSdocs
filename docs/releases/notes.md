@@ -1,10 +1,10 @@
 ---
 title: Current Release Notes
 ---
-## unicorn Alpha Channel
+## toffeeOS Dev Version Alpha Channel
 These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
-### unicorn 1.6.4
+### toffeeOS Dev Version 1.6.4
 | **Released** December 14, 2021 for x86_64 systems |
 |--------------------------------|
 | **Build**: 163rk3 |
@@ -22,7 +22,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - added new integrated controls for Syncfon in the system manager.
 - (Linux) Linux ``kernel`` updated to version ``5.10`` from version ``5.4``.
 
-### unicorn 1.6.4 LTS
+### toffeeOS Dev Version 1.6.4 LTS
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
 | **Build**: 163rl2 |
@@ -31,10 +31,10 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - (Linux) unicorn LTS 1.6.4 remains on Linux ``kernel`` version ``5.4``.
 - deprecated `syncfon` package officially for 32-bit systems.
 
-## unicorn Beta Channel
+## toffeeOS Dev Version Beta Channel
 These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 
-### unicorn 1.6.3
+### toffeeOS Dev Version 1.6.3
 | **Released** December 15, 2021 for x86_64 systems |
 |--------------------------------|
 | **Build**: 163rk2b |
@@ -58,7 +58,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - performance improvements
 - new system requirements announced earlier this year are now enforced.
 
-### unicorn 1.6.3 LTS
+### toffeeOS Dev Version 1.6.3 LTS
 | **Released** December 4, 2021 for x86 (32-bit) systems |
 |--------------------------------|
 | **Build**: 163rl1 |
@@ -69,10 +69,10 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 	- this release fixes an issue with UX in the Settings app
 	- this release addresses an issue with `apt` and the graphical package manager that allowed users to effectively destroy `unicorn-desktop` (and all related) packages, removing access to their desktop environment.
 
-## unicorn Stable Channel
+## toffeeOS Dev Version Stable Channel
 These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
-### unicorn 1.6.2
+### toffeeOS Dev Version 1.6.2
 | **Released** December 4, 2021 |
 |--------------------------------|
 | **Build**: 161rk2 |
@@ -83,7 +83,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - performance improvements
 - new system requirements announced earlier this year are now enforced.
 
-### unicorn 1.6.2 LTS
+### toffeeOS Dev Version 1.6.2 LTS
 | **Released** December 13, 2021 |
 |--------------------------------|
 | **Build**: 161rk3 |
