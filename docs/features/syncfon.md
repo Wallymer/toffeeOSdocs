@@ -1,5 +1,5 @@
 ## Syncfon
-Syncfon is an Experience app that is intended to bridge narwhal and unicorn devices together. It was introduced with unicorn Development Version 1.5.
+Syncfon is an Experience app that is intended to bridge toffeeOS and chocolateOS devices together. It was introduced with unicorn Development Version 1.5.
 
 ### Feature Set
 - Syncfon shares your SMS and RCS conversations directly to the app, and includes push notifications, so you can stay in touch with the people you care about. 
