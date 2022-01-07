@@ -9,6 +9,7 @@ NC = No API changes in this release
 | unicorn version | Current Channel | API Level (Target) |
 |-----------------|-----------------|--------------------|
 | 1.8 and 1.8 LTS | Planned | 180 |
+| 1.7.1 for ARM | Planned | 170A |
 | 1.7 and 1.7 LTS | Planned | 170 | 
 | 1.6.8 LTS | Planned | 166 (NC) |
 | 1.6.7 LTS | Planned | 166 (NC) |
