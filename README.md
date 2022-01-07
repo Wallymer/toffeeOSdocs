@@ -8,7 +8,7 @@ Please see the [LICENSE](LICENSE.md) file for more information on this repositor
 ## Build Site from Source
 We are providing our build mkdocs.yml file and our source files in this repository to encourage the community and to help us fix security flaws, spelling, or other errors in our documentation. 
 
-**We do not permit spinning up any mirrors of our documentation site anywhere on the web. toffeeosdocs.wallymer.com, and its repositories on the Wallymer GitHub account are the only official places that documentation should be hosted.**
+**We do not permit spinning up any mirrors of our documentation site anywhere on the web. [toffeeosdocs.wallymer.com](https://toffeeosdocs.wallymer.com), and its repositories on the Wallymer GitHub account are the only official places that documentation should be hosted.**
 
 We do, however, allow forks of this repository so long as they are being used for pull requests that you are submitting to us here on GitHub.
 
