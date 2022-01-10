@@ -9,7 +9,8 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 |--------------------------------|
 | **Build**: 163rk3 |
 
-64-bit only.
+64-bit only.  
+
 - System: December security patches
 - Android Subsystem: security updates for November-December 2021
 
@@ -47,8 +48,9 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 - Android Subsystem: security updates for November-December 2021
 
 | **Released** December 4, 2021 for x86_64 systems |
-|--------------------------------|
+|--------------------------------------------------|
 | **Build**: 163rk1 |
+
 **Please update to build 163rk2b for important fixes.**
 
 - bug fixes
@@ -60,7 +62,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
 ### toffeeOS Dev Version 1.6.3 LTS
 | **Released** December 4, 2021 for x86 (32-bit) systems |
-|--------------------------------|
+|--------------------------------------------------------|
 | **Build**: 163rl1 |
 | **LTS Support Ends On** March 1, 2021 (Stable) |
 
