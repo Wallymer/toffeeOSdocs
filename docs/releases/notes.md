@@ -25,11 +25,10 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 ## toffeeOS Dev Version - Beta Channel
 These releases are currently in-ring and are [supported](/releases/lifecycle/). 
 
-
 ### toffeeOS 1.6.4
 | **Released** January 12, 2022 for x86_64 (64-bit) systems |
 |--------------------------------|
-| **Build**: 165rk1 |
+| **Build**: 163rk4 |
 | **LTS Support Ends On** March 1, 2021 (Stable) |
 
 - added new integrated controls for Syncfon in the system manager.
@@ -38,7 +37,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 ### toffeeOS 1.6.4 (x86) LTS
 | **Released** January 12, 2022 for x86 (32-bit) systems |
 |--------------------------------|
-| **Build**: 165rl1 |
+| **Build**: 163rl2 |
 | **LTS Support Ends On** March 1, 2021 (Stable) |
 
 - (Linux) unicorn LTS 1.6.4 remains on Linux ``kernel`` version ``5.4``.
