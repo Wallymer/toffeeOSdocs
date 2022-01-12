@@ -11,16 +11,16 @@ NC = No API changes in this release
 | 1.9 for ARM | Planned | ``190A`` |
 | 1.9 LTS | Planned | ``190`` |
 | 1.8 for ARM | Planned | ``180A`` |
-| 1.8 and 1.8 LTS | Planned | ``180`` |
+| 1.8 and 1.8 x86-LTS | Planned | ``180`` |
 | 1.7.1 for ARM | Planned | ``170A`` |
-| 1.7 and 1.7 LTS | Planned | ``170`` |
-| 1.6.8 LTS | Planned | ``166`` (NC) |
-| 1.6.7 LTS | Planned | ``166`` (NC) |
-| 1.6.6 LTS | Planned | ``166`` |
-| 1.6.5 LTS | Planned | ``165`` |
+| 1.7 and 1.7 x86-LTS | Planned | ``170`` |
+| 1.6.8 x86-LTS | Planned | ``166`` (NC) |
+| 1.6.7 x86-LTS | Planned | ``166`` (NC) |
+| 1.6.6 x86-LTS | Planned | ``166`` |
+| 1.6.5 x86-LTS | Planned | ``165`` |
 | 1.6.4 | Alpha | ``163`` (NC) |
 | 1.6.3 | Beta | ``163`` |
-| 1.6.2 and 1.6.2 LTS | Stable | ``161`` (NC) |
+| 1.6.2 and 1.6.2 x86-LTS | Stable | ``161`` (NC) |
 
 ## Architecture Codes
 
@@ -28,6 +28,6 @@ These are displayed after the API Level target (as well as in some build/version
 
 | Architecture | Displayed as? |
 |-----------------|-----------------|
-| 32-bit | ``none, uses LTS builds`` |
-| 64-bit | ``none`` |
+| 32-bit (x86) | ``x86-LTS`` |
+| 64-bit (x86_64) | ``none`` |
 | ARM | ``A`` |
