@@ -6,13 +6,13 @@ We only fix site vulnerabilities for the two (2) most recent **production** (gre
 
 For reference purposes, the five (5) most recent are shown here.
 
-| Releases | Supported          |
+| Releases | Supported?          |
 | ------- | ------------------ |
-| 01-07-2022 | :heavy_check_mark: |
-| 12-20-2021 | :heavy_check_mark: |
-| 12-18-2021c | :x: |
-| 12-18-2021 | :x: |
-| 12-15-2021b | :x: |
+| [01-DD-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-DD-2022) | :heavy_check_mark: |
+| [01-07-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-07-2022) | :heavy_check_mark: |
+| [12-20-2021](https://github.com/Wallymer/unicorndocs/tree/prod/12-20-2021) | :x |
+| [12-18-2021c](https://github.com/Wallymer/unicorndocs/tree/prod/12-18-2021c) | :x: |
+| [12-18-2021](https://github.com/Wallymer/unicorndocs/tree/prod/12-18-2021) | :x: |
 
 ## Reporting a Vulnerability
 
