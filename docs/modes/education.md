@@ -1,3 +1,7 @@
+---
+title: Education Mode
+---
+
 ## Education Mode
 unicorn Development Version 1.5.1 or later features an Education Mode for Educational institutions. This mode provides advanced features for schools, universities, and upper level institutions to tweak unicorn to their specific needs—whether that's more flexible permissions, time locks, or improved file sharing features for students and staff alike.
 
