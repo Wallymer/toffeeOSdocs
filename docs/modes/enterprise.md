@@ -1,3 +1,7 @@
+---
+title: Enterprise Mode
+---
+
 ## Enterprise Mode
 unicorn Development Version 1.5.1 or later features an Enterprise mode meant for corporate environments. This mode provides advanced features for businesses (big and small) to tweak unicorn to their specific needs—whether that's more flexible permissions, time cards, or improved file sharing features for administrators and staff alike.
 
