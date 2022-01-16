@@ -1,3 +1,7 @@
+---
+title: Supported Email Standards
+---
+
 ## Supported Email Standards
 We're happy to support the most up-to-date standards for email security, fetching, and especially privacy. We require SSL be enabled on user's IMAP4/POP3/SMTP servers when sending or receiving email.
 
