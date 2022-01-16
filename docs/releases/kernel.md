@@ -1,3 +1,6 @@
+---
+title: Kernel Versions
+---
 ## Kernel Versions
 
 We tend to only use long-term support (LTS) releases of the Linux kernel with the limited exceptions being the ARM releases of toffeeOS Dev Version, and short-term beta tests.
