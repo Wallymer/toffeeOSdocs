@@ -5,8 +5,8 @@ unicorn supports the following:
 - mailboxes hosted on Hosted Exchange/Microsoft 365 for Business (as of unicorn 1.6.4)
 - mailboxes hosted on Exchange Server 2013, 2016, 2019
   - Exchange Server 2010 has reached end-of-life and is no longer supported by Microsoft.
+  - Support for Exchange Server 2013 will now be removed in November 2022.
   - For security reasons, we recommend upgrading to Exchange Server 2016 or later to continue checking your email using unicorn.
-    - We will continue to support Exchange Server 2013 until at least February 1, 2022, at which point, we will remove support for it from unicorn releases in all rings.
 - IMAP4 w/ SSL (recommended)
 - POP3 w/ SSL (not recommended)
 - SMTP w/ SSL
