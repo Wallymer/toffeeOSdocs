@@ -13,7 +13,7 @@
     
     
       
-        <title>X86 build deprecation - toffeeOS Dev Version Docs</title>
+        <title>32-bit support deprecation - toffeeOS Dev Version Docs</title>
       
     
     
@@ -58,7 +58,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#x86-build-support" class="md-skip">
+        <a href="#x86-support-deprecation" class="md-skip">
           Skip to content
         </a>
       
@@ -91,7 +91,7 @@
         <div class="md-header__topic" data-md-component="header-topic">
           <span class="md-ellipsis">
             
-              X86 build deprecation
+              32-bit support deprecation
             
           </span>
         </div>
@@ -466,7 +466,7 @@
   
     <li class="md-nav__item">
       <a href="../../features/supported-email-standards/" class="md-nav__link">
-        Supported email standards
+        Supported Email Standards
       </a>
     </li>
   
@@ -570,7 +570,7 @@
   
     <li class="md-nav__item">
       <a href="../../modes/default/" class="md-nav__link">
-        Default
+        Default Mode
       </a>
     </li>
   
@@ -584,7 +584,7 @@
   
     <li class="md-nav__item">
       <a href="../../modes/education/" class="md-nav__link">
-        Education
+        Education Mode
       </a>
     </li>
   
@@ -598,7 +598,7 @@
   
     <li class="md-nav__item">
       <a href="../../modes/enterprise/" class="md-nav__link">
-        Enterprise
+        Enterprise Mode
       </a>
     </li>
   
@@ -662,7 +662,7 @@
   
     <li class="md-nav__item">
       <a href="../kernel/" class="md-nav__link">
-        Kernel
+        Kernel Versions
       </a>
     </li>
   
@@ -690,7 +690,7 @@
   
     <li class="md-nav__item">
       <a href="../lts/" class="md-nav__link">
-        Lts
+        LTS Builds
       </a>
     </li>
   
@@ -725,12 +725,12 @@
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          X86 build deprecation
+          32-bit support deprecation
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        X86 build deprecation
+        32-bit support deprecation
       </a>
       
         
@@ -747,8 +747,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#x86-build-support" class="md-nav__link">
-    x86 build support
+  <a href="#x86-support-deprecation" class="md-nav__link">
+    x86 support deprecation
   </a>
   
 </li>
@@ -807,8 +807,8 @@
     <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
       
         <li class="md-nav__item">
-  <a href="#x86-build-support" class="md-nav__link">
-    x86 build support
+  <a href="#x86-support-deprecation" class="md-nav__link">
+    x86 support deprecation
   </a>
   
 </li>
@@ -839,14 +839,14 @@
             <article class="md-content__inner md-typeset">
               
                 
-<a href="https://github.com/Wallymer/toffeeOSdocs/edit/master/docs/releases/x86-build-deprecation.md" title="Edit this page" class="md-content__button md-icon">
+<a href="https://github.com/Wallymer/toffeeOSdocs/edit/master/docs/releases/x86-support-deprecation.md" title="Edit this page" class="md-content__button md-icon">
   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
 </a>
 
 
-  <h1>X86 build deprecation</h1>
+  <h1>32-bit support deprecation</h1>
 
-<h2 id="x86-build-support">x86 build support</h2>
+<h2 id="x86-support-deprecation">x86 support deprecation</h2>
 <p>For the entire 3 years we've been building unicorn, we've always included a 32-bit (x86) of the operating system for compatibility purposes. Our goal was to support as many systems as feasibly possible - and we did. While we are certainly proud of this, we realized it significantly impacts our development time and resiliency to resolve bugs on two incredibly different codebases. </p>
 <p>x86-only systems are becoming more and more rare as time goes on. So we're getting rid of the added stress (and ultimately, "busy work"): with unicorn 1.5, we have deprecated support for the x86 builds. And once unicorn 1.8 is rolled to the Stable ring (taking 1.7's place), x86 builds will no longer be supported.</p>
 <p>We realize this change is difficult. But x86 systems are unpopular now and 64-bit (x86_64) is the way to go for any software release.</p>
