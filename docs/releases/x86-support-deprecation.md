@@ -1,4 +1,8 @@
-## x86 build support
+---
+title: 32-bit support deprecation
+---
+
+## x86 support deprecation
 For the entire 3 years we've been building unicorn, we've always included a 32-bit (x86) of the operating system for compatibility purposes. Our goal was to support as many systems as feasibly possible - and we did. While we are certainly proud of this, we realized it significantly impacts our development time and resiliency to resolve bugs on two incredibly different codebases. 
 
 x86-only systems are becoming more and more rare as time goes on. So we're getting rid of the added stress (and ultimately, "busy work"): with unicorn 1.5, we have deprecated support for the x86 builds. And once unicorn 1.8 is rolled to the Stable ring (taking 1.7's place), x86 builds will no longer be supported.
