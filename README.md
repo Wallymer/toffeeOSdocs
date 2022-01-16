@@ -1,3 +1,5 @@
+[![MKDOCS BUILD TEST](https://github.com/Wallymer/toffeeOSdocs/actions/workflows/mkdocsbuild.yml/badge.svg)](https://github.com/Wallymer/toffeeOSdocs/actions/workflows/mkdocsbuild.yml)
+
 ## toffeeOS Development Version - Documentation Repository
 This is the repository where we publicly mirror our documentation site's source material. If you're interested in helping us make corrections, please feel free to open an issue or pull request!
 
