@@ -6,14 +6,23 @@ We only fix site vulnerabilities for the two (2) most recent **production** (gre
 
 For reference purposes, the five (5) most recent are shown here.
 
-
+### Website Build Source
 | Releases | Supported?          |
 | -------- | ------------------ |
-| [01-15-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :heavy_check_mark: |
-| [01-14-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-14-2022) | :heavy_check_mark: |
-| [01-12-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-12-2022) | :x: |
-| [01-07-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-07-2022) | :x: |
-| [12-20-2021](https://github.com/Wallymer/unicorndocs/tree/prod/12-20-2021) | :x: |
+| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-17-2022b) | :heavy_check_mark: |
+| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-15-2022) | :heavy_check_mark: |
+| [01-16-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-16-2022a) | :x: |
+| [01-15-2022](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-15-2022) | :x: |
+| [01-14-2022](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-14-2022) | :x: |
+
+### Documentation Source
+| Releases | Supported?          |
+| -------- | ------------------ |
+| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/prod/01-17-2022b) | :heavy_check_mark: |
+| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :heavy_check_mark: |
+| [01-16-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-16-2022a) | :x: |
+| [01-15-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :x: |
+| [01-14-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-14-2022) | :x: |
 
 ## Reporting a Vulnerability
 
