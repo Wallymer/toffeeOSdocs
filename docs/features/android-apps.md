@@ -11,4 +11,4 @@ To activate this feature (experimental), open our console app, and type the foll
 sudo toffget install --repo unicorn-dev-latest --package apkrunner -y
 ```
 
-We also recommend grabbing the latest version of ``toffeeserver`` which is also available on [toffget](/features/toffget/).
+We also recommend grabbing the latest version of ``toffeeserver`` which is also available on [toffget](/features/package-managers#toffget/).
