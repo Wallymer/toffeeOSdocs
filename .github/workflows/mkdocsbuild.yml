@@ -1,4 +1,4 @@
-name: MKDOCS BUILD TEST
+name: Deploy - Prod
 on:
   push:
     branches:
