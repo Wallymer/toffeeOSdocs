@@ -860,8 +860,7 @@
 
   <h1>Release Lifecycle</h1>
 
-<p><strong>We're excited to announce changes to several release channels. These changes align more with our software development mission. We hope this change brings more clarity to our releases, their stability, and overall place in development. For more details, we recommend reading <a href="/archived/changes-to-release-channels/">this document</a>!</strong></p>
-<hr />
+<p>We've updated our archetecture codes! Read more <a href="/api/release-targets/#architecture-codes">about the change here</a>!</p>
 <h2 id="currently-supported-indev-builds">Currently Supported InDev Builds</h2>
 <table>
 <thead>
@@ -878,43 +877,80 @@
 <tbody>
 <tr>
 <td>Alpha</td>
-<td>1.6.5 (x86_64)</td>
-<td>165rk1</td>
-<td>January 12, 2022</td>
+<td>1.7.0</td>
+<td>170Y1</td>
+<td>February 1, 2022</td>
 <td>To be determined</td>
 <td>No</td>
 <td>x86_64</td>
 </tr>
 <tr>
 <td>Alpha</td>
-<td>1.6.5 (x86) LTS</td>
-<td>165rl1</td>
-<td>January 12, 2022</td>
-<td>March 1, 2021 (^)</td>
+<td>1.6.6 (x86) LTS</td>
+<td>166X1</td>
+<td>February 1, 2022</td>
+<td>March 1, 2022 (^)</td>
 <td>Yes</td>
-<td>x86</td>
+<td>x86 (final release)</td>
 </tr>
 <tr>
 <td>Beta</td>
-<td>1.6.4 (x86_64)</td>
-<td>163rk4</td>
-<td>January 12, 2022</td>
+<td>1.6.5 (x86_64)</td>
+<td>165Y2</td>
+<td>February 1, 2022</td>
 <td>To be determined</td>
 <td>No</td>
 <td>x86_64</td>
 </tr>
 <tr>
 <td>Beta</td>
-<td>1.6.4 (x86) LTS</td>
-<td>163rl2</td>
-<td>January 12, 2022</td>
-<td>March 1, 2021 (^)</td>
+<td>1.6.5 (x86) LTS</td>
+<td>165X2</td>
+<td>February 1, 2022</td>
+<td>March 1, 2022 (^)</td>
 <td>Yes</td>
 <td>x86</td>
 </tr>
 </tbody>
 </table>
 <h2 id="currently-supported-stable-builds">Currently Supported Stable Builds</h2>
+<table>
+<thead>
+<tr>
+<th>Channel</th>
+<th>OS Version</th>
+<th>Build</th>
+<th>Date Released</th>
+<th>Support End Date</th>
+<th>LTS?</th>
+<th>Architecture</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Stable</td>
+<td>1.6.4 (x86_64)</td>
+<td>163Y4</td>
+<td>January 12, 2022</td>
+<td>To be determined</td>
+<td>No</td>
+<td>x86_64</td>
+</tr>
+<tr>
+<td>Stable</td>
+<td>1.6.4 (x86) LTS</td>
+<td>163X2</td>
+<td>January 12, 2022</td>
+<td>March 1, 2022 (^)</td>
+<td>Yes</td>
+<td>x86</td>
+</tr>
+</tbody>
+</table>
+<p>(^) Stable LTS builds are supplemented by point releases (x.x) and are supported until at least this date, after which, you will be able to upgrade to the next LTS release (which comes out around every three months).</p>
+<hr />
+<h2 id="archived-unsupported-builds">Archived &amp; Unsupported Builds</h2>
+<p>We are no longer showing <strong>all</strong> of these directly on the doc in order to reduce confusion. We plan to list the most recent <strong>Stable</strong> versions below (along with their support end dates) to encourage testers to upgrade.</p>
 <table>
 <thead>
 <tr>
@@ -942,62 +978,7 @@
 <td>1.6.3 (x86) LTS</td>
 <td>163rl1</td>
 <td>January 12, 2022</td>
-<td>March 1, 2021 (^)</td>
-<td>Yes</td>
-<td>x86</td>
-</tr>
-</tbody>
-</table>
-<p>(^) Stable LTS builds are supplemented by point releases (x.x) and are supported until at least this date, after which, you will be able to upgrade to the next LTS release (which comes out around every three months).</p>
-<hr />
-<h2 id="archived-unsupported-builds">Archived &amp; Unsupported Builds</h2>
-<p>We are no longer showing <strong>all</strong> of these directly on the doc in order to reduce confusion. We plan to list the most recent <strong>Stable</strong> versions below (along with their support end dates) to encourage testers to upgrade.</p>
-<table>
-<thead>
-<tr>
-<th>Channel</th>
-<th>OS Version</th>
-<th>Build</th>
-<th>Date Released</th>
-<th>Support End Date</th>
-<th>LTS?</th>
-<th>Architecture</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Alpha</td>
-<td>1.6.4 (x86_64) Alpha</td>
-<td>163rk2</td>
-<td>December 4, 2021</td>
-<td>January 12, 2022</td>
-<td>No</td>
-<td>x86_64</td>
-</tr>
-<tr>
-<td>Alpha</td>
-<td>1.6.4 LTS Alpha</td>
-<td>163rl2</td>
-<td>December 4, 2021</td>
-<td>January 12, 2022</td>
-<td>Yes</td>
-<td>x86</td>
-</tr>
-<tr>
-<td>Beta</td>
-<td>1.6.3 (x86_64) Beta</td>
-<td>163rk1</td>
-<td>December 4, 2021</td>
-<td>January 12, 2022</td>
-<td>No</td>
-<td>x86_64</td>
-</tr>
-<tr>
-<td>Beta</td>
-<td>1.6.3 LTS Beta</td>
-<td>163rl1</td>
-<td>December 4, 2021</td>
-<td>January 12, 2022</td>
+<td>February 1, 2022 (update to 1.6.4 (x86) LTS)</td>
 <td>Yes</td>
 <td>x86</td>
 </tr>
