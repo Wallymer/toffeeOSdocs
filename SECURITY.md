@@ -9,20 +9,21 @@ For reference purposes, the five (5) most recent are shown here.
 ### Website Build Source
 | Releases | Supported?          |
 | -------- | ------------------ |
-| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-17-2022b) | :heavy_check_mark: |
-| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-15-2022) | :heavy_check_mark: |
-| [01-16-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-16-2022a) | :x: |
-| [01-15-2022](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-15-2022) | :x: |
-| [01-14-2022](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-14-2022) | :x: |
+| [02-01-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-01-2022b) | :heavy_check_mark: |
+| [02-01-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-01-2022a) | :heavy_check_mark: |
+| [01-21-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-21-2022a) | :x: |
+| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-17-2022b) | :x: |
+| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-15-2022) | :x: |
+
 
 ### Documentation Source
 | Releases | Supported?          |
 | -------- | ------------------ |
-| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/prod/01-17-2022b) | :heavy_check_mark: |
-| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :heavy_check_mark: |
-| [01-16-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-16-2022a) | :x: |
-| [01-15-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :x: |
-| [01-14-2022](https://github.com/Wallymer/unicorndocs/tree/prod/01-14-2022) | :x: |
+| [02-01-2022b](https://github.com/Wallymer/unicorndocs/tree/prod/02-01-2022b) | :heavy_check_mark: |
+| [02-01-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/02-01-2022a) | :heavy_check_mark: |
+| [01-21-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-21-2022a) | :x: |
+| [01-17-2022b](https://github.com/Wallymer/unicorndocs/tree/prod/01-17-2022b) | :x: |
+| [01-17-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-15-2022) | :x: |
 
 ## Reporting a Vulnerability
 
