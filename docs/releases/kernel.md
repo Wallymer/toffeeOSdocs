@@ -8,6 +8,7 @@ We tend to only use long-term support (LTS) releases of the Linux kernel with th
 | toffeeOS Dev Version | Linux kernel version |
 |------------|----------------------|
 | 1.9 and 1.9 LTS | ``5.15.y`` |
+| 1.8.1 for ARM | ``5.17.y`` |
 | 1.8 and 1.8 LTS | ``5.15.y`` |
 | 1.7.1 for ARM | ``5.16.y`` |
 | 1.7 and 1.7 LTS | ``5.10.y`` |
