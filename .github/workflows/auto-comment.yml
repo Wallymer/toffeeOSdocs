@@ -1,0 +1,41 @@
+name: Auto Comment
+on: [issues, pull_request]
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: wow-actions/auto-comment@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          issuesOpened: |
+            Hi @{{ author }},
+            Thanks for your report! Make sure you have tagged with your Reported-by:, otherwise we **will** close this issue and ask you raise a new one.
+            ALSO: please make sure you have given us as much context as possible so we can fix whatever needs to be fixed. (You can also make the changes yourself and submit a pull request, too!)
+            
+            Thank you,
+            toffeeOS Documentation Maintainers
+
+          issuesClosed: |
+            Hi @{{ author }},
+            This issue has been closed either because we've fixed the issue, or because we've determined it was not worth addressing.
+            A maintainer will most likely comment with the reason shortly. But if they forget - you can always check PRs or commits that may reference this issue to determine which it was!
+            
+            All the best,
+            toffeeOS Documentation Maintainers
+        
+          pullRequestOpened: |
+            Hi @{{ author }},
+            Thank you for sending along your pull request. So long as you have tagged your Signed-off-by: on your commits, we will probably approve this following a review.
+            We will review it as soon as possible though we can't guarantee that we will take your PR!
+            
+            Thank you,
+            toffeeOS Documentation Maintainers
+
+          pullRequestClosed: |
+            Hi @{{ author }},
+            Thank you for your PR. Looks like we've closed this: either because we've merged it in, or because we've determined it wasn't worth addressing.
+            
+            Thanks for your contributions to improving our documentation! :smile:
+            
+            All the best,
+            toffeeOS Documentation Maintainers
