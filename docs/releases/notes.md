@@ -5,10 +5,20 @@ title: Current Release Notes
 ## toffeeOS Dev Version - Alpha Channel
 These releases are currently in-ring and are [supported](/releases/lifecycle/).
 
+### toffeeOS 1.7.1 for ARM
+| **Released** February 6, 2022 for x86_64 (64-bit) systems |
+|--------------------------------|
+| **Build**: 170A1 |
+
+- initial *test* release for ARM processors (currently supported: Snapdragon, Apple M1)
+    - no support for Apple's M1 Pro or M1 Max chips at this time
+- Some software may not work as intended.
+    - only the [toffget package manager](/features/package-managers/#toffget) is available in ARM test builds (for now).
+
 ### toffeeOS 1.7.0
 | **Released** February 1, 2022 for x86_64 (64-bit) systems |
 |--------------------------------|
-| **Build**: 165Y2 |
+| **Build**: 170Y1 |
 | **LTS Support Ends On** March 1, 2022 (Stable) |
 
 - updated kernel to latest stable release for ``5.10.y`` as of this changelog ([kernel 5.10.95](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?h=linux-5.10.y&id=77656fde3c0125d6ef6f7fb46af6d2739d7b7141))
