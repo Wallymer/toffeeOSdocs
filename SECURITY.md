@@ -9,21 +9,22 @@ For reference purposes, the five (5) most recent are shown here.
 ### Website Build Source
 | Releases | Supported?          |
 | -------- | ------------------ |
+| [02-06-2022a](https://gitlab.com/wallymer/toffeeOSdocs/-/tree/site-prod/02-06-2022a) | :heavy_check_mark: |
 | [02-05-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-05-2022a) | :heavy_check_mark: |
-| [02-02-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-02-2022a) | :heavy_check_mark: |
-| [02-01-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-01-2022b) | :heavy_check_mark: |
+| [02-02-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-02-2022a) | :x: |
+| [02-01-2022b](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-01-2022b) | :x: |
 | [02-01-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/02-01-2022a) | :x: |
-| [01-21-2022a](https://github.com/Wallymer/unicorndocs/tree/site-prod/01-21-2022a) | :x: |
+
 
 
 ### Documentation Source
 | Releases | Supported?          |
 | -------- | ------------------ |
+| [02-06-2022a](https://gitlab.com/wallymer/toffeeOSdocs/-/tree/prod/02-06-2022a) | :heavy_check_mark: |
 | [02-05-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/02-05-2022a) | :heavy_check_mark: |
 | [02-02-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/02-02-2022a) | :heavy_check_mark: |
 | [02-01-2022b](https://github.com/Wallymer/unicorndocs/tree/prod/02-01-2022b) | :x: |
 | [02-01-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/02-01-2022a) | :x: |
-| [01-21-2022a](https://github.com/Wallymer/unicorndocs/tree/prod/01-21-2022a) | :x: |
 
 ## Reporting a Vulnerability
 
