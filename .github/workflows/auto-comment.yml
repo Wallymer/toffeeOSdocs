@@ -15,8 +15,8 @@ jobs:
             toffeeOS Documentation Maintainers
         
           pullRequestOpened: |
-              Hi @{{ author }},
-          We don't address issues here on GitHub, as this is a public mirror! You might want direct your PR to https://gitlab.com/wallymer/toffeeOSdocs. Thanks!
+            Hi @{{ author }},
+            We don't address PRs here on GitHub, as this is a public mirror! You might want to direct this to https://gitlab.com/wallymer/toffeeOSdocs. Thanks!
             
             Your friends,
             toffeeOS Documentation Maintainers
