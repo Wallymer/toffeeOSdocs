@@ -11,7 +11,7 @@ These releases are currently in-ring and are [supported](/releases/lifecycle/).
 | **Build**: 165Y2 |
 | **LTS Support Ends On** March 1, 2021 (Stable) |
 
-- updated kernel to latest stable release for ``5.10.y`` as of this changelog ([kernel 5.10.95](https://github.com/Wallymer/linux-stable/commit/77656fde3c0125d6ef6f7fb46af6d2739d7b7141))
+- updated kernel to latest stable release for ``5.10.y`` as of this changelog ([kernel 5.10.95](https://git.kernel.org/pub/scm/linux/kernel/git/stable/linux.git/commit/?h=linux-5.10.y&id=77656fde3c0125d6ef6f7fb46af6d2739d7b7141))
 - new components have now been implemented at a kernel level:
     - scheduler (``wallymer-sysscheduler``) changes for better performance under certain workloads
     - improved hardware RAID support
