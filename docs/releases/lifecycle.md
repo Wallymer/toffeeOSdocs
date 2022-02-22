@@ -2,7 +2,7 @@
 title: Release Lifecycle
 ---
 
-We've updated our archetecture codes! Read more [about the change here](/api/release-targets/#architecture-codes)!
+We've updated our architecture codes! Read more [about the change here](/api/release-targets/#architecture-codes)!
 
 ## Currently Supported InDev Builds
 | Channel | OS Version | Build | Kernel Version | Date Released | Support End Date | LTS? | Architecture |
