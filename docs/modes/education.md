@@ -12,3 +12,4 @@ Education Mode must be enabled on an x86_64 (64-bit) build of unicorn Server Dev
 To enable Remote Access—a secure, remotely accessible bridge to your network resources for your students, staff, and administrators—simply tick the box in Settings and follow the steps to port forward your server's Bridging Port. The Bridging Port acts as a VPN tunnel for your End Users and allows them to access resources remotely that wouldn't be accessible otherwise.
 
 Bridging Port is supported in unicorn Development Version 1.6 and later.
+The default port that administrators will need to port forward is ``25101``.
