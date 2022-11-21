@@ -1,3 +1,8 @@
+# Now Archived
+We've moved our documentation to [toffeedoc](https://gitlab.com/wallymer/toffeedoc).
+
+---
+
 [![MKDOCS BUILD TEST](https://github.com/Wallymer/toffeeOSdocs/actions/workflows/mkdocsbuild.yml/badge.svg)](https://github.com/Wallymer/toffeeOSdocs/actions/workflows/mkdocsbuild.yml)
 
 ## toffeeOS Development Version - Documentation Repository
